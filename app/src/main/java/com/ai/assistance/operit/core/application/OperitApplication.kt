@@ -58,6 +58,7 @@ import com.ai.assistance.operit.util.WaifuMessageProcessor
 import com.ai.assistance.operit.core.tools.agent.ShowerController
 import com.ai.assistance.operit.ui.common.displays.VirtualDisplayOverlay
 import com.tom_roush.pdfbox.android.PDFBoxResourceLoader
+import com.kayan.verifier.KayanVerifierRegistry
 import com.ai.assistance.operit.core.tools.system.shower.OperitShowerShellRunner
 import com.ai.assistance.showerclient.ShowerEnvironment
 import com.ai.assistance.showerclient.ShowerLogSink
@@ -137,6 +138,9 @@ class OperitApplication : Application(), ImageLoaderFactory, WorkConfiguration.P
         }
 
         globalImageLoader = ImageLoader.Builder(this).build()
+
+        // KayanVerifier: تسجيل طبقة التحقق المستقلة
+        KayanVerifierRegistry.install(this)
     }
 
     fun initializeMainApplication() {
