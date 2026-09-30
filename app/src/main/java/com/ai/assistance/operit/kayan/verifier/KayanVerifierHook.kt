@@ -1,10 +1,10 @@
 package com.ai.assistance.operit.kayan.verifier
 
-import com.ai.assistance.operit.core.tools.AITool
+import com.ai.assistance.operit.data.model.AITool
 import com.ai.assistance.operit.core.tools.AIToolHook
 import com.ai.assistance.operit.core.tools.AIToolHookDecision
 import com.ai.assistance.operit.core.tools.StringResultData
-import com.ai.assistance.operit.core.tools.ToolResult
+import com.ai.assistance.operit.data.model.ToolResult
 import java.util.concurrent.ConcurrentHashMap
 import java.util.concurrent.atomic.AtomicLong
 
