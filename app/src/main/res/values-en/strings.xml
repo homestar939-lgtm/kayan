@@ -8518,4 +8518,12 @@
     <string name="market_version_too_low_message">Current client version %1$s is lower than the minimum required version %2$s for this resource. Please update the client before downloading.</string>
     <string name="market_version_too_high_message">Current client version %1$s is higher than the maximum supported version %2$s for this resource. Please use a supported client version.</string>
     <string name="thinking_config_invalid_json">Invalid Thinking Configuration</string>
+
+    <!-- Kayan: Added missing English strings -->
+    <string name="backup_format_csv">CSV</string>
+    <string name="backup_format_csv_desc">Table format, suitable for data cleaning and migration</string>
+    <string name="data_recovery_configuration_file_domain_issue">Configuration file content anomaly: %1$s, can be repaired after preserving the original</string>
+    <string name="tool_permission_confirmation_timeout">Tool execution confirmation timed out.</string>
+    <string name="tool_permission_execution_denied">Tool execution permission denied.</string>
+    <string name="tool_permission_overlay_required_for_confirmation">Overlay permission required to confirm tool execution.</string>
 </resources>
