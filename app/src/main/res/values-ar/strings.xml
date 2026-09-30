@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Kayan Arabic Translation — Core Strings -->
+
+    <!-- App -->
+    <string name="app_name">كيان</string>
+    <string name="default_profile">افتراضي</string>
+
+    <!-- Common Buttons -->
+    <string name="ok">موافق</string>
+    <string name="cancel">إلغاء</string>
+    <string name="confirm">تأكيد</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="close">إغلاق</string>
+    <string name="back">رجوع</string>
+    <string name="next">التالي</string>
+    <string name="done">تم</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="refresh">تحديث</string>
+    <string name="copy">نسخ</string>
+    <string name="paste">لصق</string>
+    <string name="share">مشاركة</string>
+    <string name="search">بحث</string>
+    <string name="clear">مسح</string>
+    <string name="reset">إعادة تعيين</string>
+    <string name="apply">تطبيق</string>
+    <string name="enable">تفعيل</string>
+    <string name="disable">إلغاء التفعيل</string>
+
+    <!-- Navigation -->
+    <string name="chat">المحادثة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="history">السجل</string>
+    <string name="tools">الأدوات</string>
+    <string name="skills">المهارات</string>
+    <string name="workflow">سير العمل</string>
+    <string name="plugins">الإضافات</string>
+    <string name="memory">الذاكرة</string>
+    <string name="about">حول</string>
+
+    <!-- Chat -->
+    <string name="chat_title">المحادثة</string>
+    <string name="new_chat">محادثة جديدة</string>
+    <string name="send">إرسال</string>
+    <string name="stop">إيقاف</string>
+    <string name="regenerate">إعادة التوليد</string>
+    <string name="branch">تفريع</string>
+    <string name="input_hint">اكتب رسالتك…</string>
+    <string name="attach_file">إرفاق ملف</string>
+    <string name="thinking">جارٍ التفكير…</string>
+    <string name="generating">جارٍ التوليد…</string>
+
+    <!-- Settings -->
+    <string name="language">اللغة</string>
+    <string name="language_settings">إعدادات اللغة</string>
+    <string name="theme">المظهر</string>
+    <string name="theme_settings">إعدادات المظهر</string>
+    <string name="model_settings">إعدادات النموذج</string>
+    <string name="permissions">الصلاحيات</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="privacy">الخصوصية</string>
+    <string name="data_backup">النسخ الاحتياطي</string>
+    <string name="data_restore">الاستعادة</string>
+
+    <!-- Models -->
+    <string name="model">النموذج</string>
+    <string name="api_key">مفتاح API</string>
+    <string name="api_endpoint">نقطة الوصول</string>
+    <string name="model_name">اسم النموذج</string>
+    <string name="temperature">درجة الحرارة</string>
+    <string name="context_length">طول السياق</string>
+    <string name="max_tokens">أقصى عدد رموز</string>
+    <string name="test_connection">اختبار الاتصال</string>
+    <string name="connection_success">تم الاتصال بنجاح</string>
+    <string name="connection_failed">فشل الاتصال</string>
+
+    <!-- Tools -->
+    <string name="tool_permission_confirmation_timeout">انتهت مهلة تأكيد تنفيذ الأداة.</string>
+    <string name="tool_permission_execution_denied">تم رفض صلاحية تنفيذ الأداة.</string>
+    <string name="tool_permission_overlay_required_for_confirmation">مطلوب صلاحية النافذة العائمة لتأكيد تنفيذ الأداة.</string>
+
+    <!-- Backup -->
+    <string name="backup">نسخ احتياطي</string>
+    <string name="restore">استعادة</string>
+    <string name="backup_format_csv">CSV</string>
+    <string name="backup_format_csv_desc">تنسيق جدولي، مناسب لتنظيف البيانات ونقلها</string>
+    <string name="data_recovery_configuration_file_domain_issue">محتوى ملف التكوين غير طبيعي: %1$s، يمكن إصلاحه بعد الاحتفاظ بالأصل</string>
+
+    <!-- Errors -->
+    <string name="error_generic">حدث خطأ غير متوقع</string>
+    <string name="error_network">خطأ في الشبكة</string>
+    <string name="error_timeout">انتهت المهلة</string>
+    <string name="error_no_model">لم يتم تحميل أي نموذج</string>
+    <string name="error_path_forbidden">المسار محظور لأسباب أمنية</string>
+
+    <!-- Success -->
+    <string name="success">نجح</string>
+    <string name="failed">فشل</string>
+    <string name="loading">جارٍ التحميل…</string>
+    <string name="saving">جارٍ الحفظ…</string>
+
+    <!-- Kayan Verifier -->
+    <string name="verification_passed">✅ التحقق نجح</string>
+    <string name="verification_failed">❌ التحقق فشل</string>
+    <string name="verification_blocked">🚫 تم الحجب</string>
+</resources>
