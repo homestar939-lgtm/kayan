@@ -26,6 +26,7 @@ object LocaleUtils {
         const val INDONESIAN = "id"
         const val PORTUGUESE_BRAZIL = "pt-BR"
         const val ROMANIAN = "ro"
+        const val ARABIC = "ar"
     }
 
     private val legacyLanguageCodeAliases =
@@ -54,7 +55,8 @@ object LocaleUtils {
                             "Portuguese (Brazil)",
                             "Português (Brasil)"
                     ),
-                    Language(LanguageCodes.ROMANIAN, "Romanian", "Română")
+                    Language(LanguageCodes.ROMANIAN, "Romanian", "Română"),
+                    Language(LanguageCodes.ARABIC, "Arabic", "العربية")
             )
 
     private val supportedLanguageCodes =
@@ -95,18 +97,22 @@ object LocaleUtils {
      * 日本語で未翻訳の項目は英語リソースを使用し、中国語の既定リソースを表示しない。
      */
     fun createCompatLocaleList(locale: Locale): LocaleListCompat {
-        return if (locale.language.equals(LanguageCodes.JAPANESE, ignoreCase = true)) {
-            LocaleListCompat.forLanguageTags("${locale.toLanguageTag()},${LanguageCodes.ENGLISH}")
-        } else {
-            LocaleListCompat.create(locale)
+        return when {
+            locale.language.equals(LanguageCodes.JAPANESE, ignoreCase = true) ->
+                LocaleListCompat.forLanguageTags("${locale.toLanguageTag()},${LanguageCodes.ENGLISH}")
+            locale.language.equals(LanguageCodes.ARABIC, ignoreCase = true) ->
+                LocaleListCompat.forLanguageTags("${locale.toLanguageTag()},${LanguageCodes.ENGLISH}")
+            else -> LocaleListCompat.create(locale)
         }
     }
 
     fun createPlatformLocaleList(locale: Locale): LocaleList {
-        return if (locale.language.equals(LanguageCodes.JAPANESE, ignoreCase = true)) {
-            LocaleList(locale, Locale.ENGLISH)
-        } else {
-            LocaleList(locale)
+        return when {
+            locale.language.equals(LanguageCodes.JAPANESE, ignoreCase = true) ->
+                LocaleList(locale, Locale.ENGLISH)
+            locale.language.equals(LanguageCodes.ARABIC, ignoreCase = true) ->
+                LocaleList(locale, Locale.ENGLISH)
+            else -> LocaleList(locale)
         }
     }
 
