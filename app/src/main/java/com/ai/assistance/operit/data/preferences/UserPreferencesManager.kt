@@ -265,7 +265,7 @@ class UserPreferencesManager private constructor(private val context: Context) {
         const val MEDIA_TYPE_VIDEO = "video"
         
         // 默认语言
-        const val DEFAULT_LANGUAGE = LanguageCodes.AUTO
+        const val DEFAULT_LANGUAGE = LanguageCodes.ENGLISH
 
         // Sidebar software identity (drawer header brand text)
         const val SOFTWARE_IDENTITY_OPERIT = "operit_ai"
