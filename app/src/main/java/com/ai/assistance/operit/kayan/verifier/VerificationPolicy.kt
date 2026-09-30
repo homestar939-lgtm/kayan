@@ -1,6 +1,6 @@
 package com.ai.assistance.operit.kayan.verifier
 
-import com.ai.assistance.operit.core.tools.AITool
+import com.ai.assistance.operit.data.model.AITool
 
 sealed class PolicyDecision {
     object Allow : PolicyDecision()
