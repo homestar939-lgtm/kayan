@@ -394,7 +394,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.ai.assistance.operit"
+        applicationId = "com.kayan.agent"
         minSdk = 26
         targetSdk = 34
         versionCode = 51
