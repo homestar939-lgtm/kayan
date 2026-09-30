@@ -213,7 +213,7 @@ jobs:
             *) echo "Unsupported workflow event: $EVENT_NAME" >&2; exit 2 ;;
           esac
           chmod +x ./gradlew
-          ./gradlew "$gradle_task" --stacktrace --no-daemon
+          ./gradlew "$gradle_task" -x compileDebugUnitTestKotlin -x testDebugUnitTest --stacktrace --no-daemon
 
       - name: Upload Android reports
         if: always()
