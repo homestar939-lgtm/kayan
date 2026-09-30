@@ -1,6 +1,6 @@
 package com.ai.assistance.operit.kayan.verifier
 
-import com.ai.assistance.operit.core.tools.ToolParameter
+import com.ai.assistance.operit.data.model.ToolParameter
 
 data class VerificationRecord(
     val toolName: String,
