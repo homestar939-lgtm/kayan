@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="gold">#FFD700</color>
+    <color name="gold_dark">#DAA520</color>
+    <color name="gold_light">#FFE55C</color>
+    <color name="black_deep">#0A0A0A</color>
+    <color name="black_surface">#1A1A1A</color>
+    <color name="black_elevated">#2D2D2D</color>
+    <color name="on_gold">#000000</color>
+    <color name="on_black">#FFFFFF</color>
+    <color name="error_red">#CF6679</color>
+    <color name="success_green">#22C55E</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
