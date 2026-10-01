@@ -105,4 +105,13 @@
     <string name="verification_passed">✅ التحقق نجح</string>
     <string name="verification_failed">❌ التحقق فشل</string>
     <string name="verification_blocked">🚫 تم الحجب</string>
+
+    <!-- Kayan -->
+    <string name="nav_terminal">الطرفية</string>
+    <string name="nav_workflow">سير العمل</string>
+    <string name="nav_packages">الحزم</string>
+    <string name="nav_memory_base">قاعدة الذاكرة</string>
+    <string name="nav_toolbox">صندوق الأدوات</string>
+    <string name="assistant_config_title">إعدادات المساعد</string>
+    <string name="kayan_signature">توقيع كيان</string>
 </resources>
