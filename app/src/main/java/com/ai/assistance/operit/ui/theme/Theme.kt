@@ -68,25 +68,37 @@ import com.kyant.backdrop.backdrops.rememberLayerBackdrop
 import io.github.fletchmckee.liquid.liquefiable
 import io.github.fletchmckee.liquid.rememberLiquidState
 
-private val DarkColorScheme =
-        darkColorScheme(primary = Purple80, secondary = PurpleGrey80, tertiary = Pink80)
+private val DarkColorScheme = darkColorScheme(
+    primary = Gold,
+    onPrimary = OnGold,
+    primaryContainer = GoldDark,
+    onPrimaryContainer = OnGold,
+    secondary = GoldDark,
+    onSecondary = OnGold,
+    background = BlackDeep,
+    onBackground = OnBlack,
+    surface = BlackSurface,
+    onSurface = OnBlack,
+    surfaceVariant = BlackElevated,
+    onSurfaceVariant = OnBlackSecondary,
+    error = ErrorRed
+)
 
-private val LightColorScheme =
-        lightColorScheme(
-                primary = Purple40,
-                secondary = PurpleGrey40,
-                tertiary = Pink40,
-
-                /* Other default colors to override
-                background = Color(0xFFFFFBFE),
-                surface = Color(0xFFFFFBFE),
-                onPrimary = Color.White,
-                onSecondary = Color.White,
-                onTertiary = Color.White,
-                onBackground = Color(0xFF1C1B1F),
-                onSurface = Color(0xFF1C1B1F),
-                */
-                )
+private val LightColorScheme = lightColorScheme(
+    primary = Gold,
+    onPrimary = OnGold,
+    primaryContainer = GoldDark,
+    onPrimaryContainer = OnGold,
+    secondary = GoldDark,
+    onSecondary = OnGold,
+    background = BlackDeep,
+    onBackground = OnBlack,
+    surface = BlackSurface,
+    onSurface = OnBlack,
+    surfaceVariant = BlackElevated,
+    onSurfaceVariant = OnBlackSecondary,
+    error = ErrorRed
+)
 
 
 @SuppressLint("UnusedBoxWithConstraintsScope")
