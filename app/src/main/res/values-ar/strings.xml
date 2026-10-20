@@ -6857,7 +6857,7 @@
     <string name="uiautomation_complete">كامل</string>
     <string name="message_list_empty">لا يمكن أن تكون قائمة الرسائل فارغة</string>
     <string name="image_capture_failed">فشل التقاط الصورة: %1$s</string>
-    <string name="stream_markdown_demo">OK، إذا كانت لديك أية أسئلة أو كنت بحاجة إلى مساعدة، فلا تتردد في الاتصال بي في أي وقت.\n\n\n<status type=\"complete\"></status></string>
+    <string name="stream_markdown_demo">OK، إذا كانت لديك أية أسئلة أو كنت بحاجة إلى مساعدة، فلا تتردد في الاتصال بي في أي وقت.\n\n\n<status type="complete"></status></string>
     <string name="stream_markdown_rendering">الجري</string>
     <string name="graph_start_node_not_exist">عقدة البداية \'%1$s\' غير موجودة</string>
     <string name="graph_end_node_not_exist">عقدة النهاية \'%1$s\' غير موجودة</string>
