@@ -577,7 +577,7 @@
     <!-- About Screen -->
     <string name="about_title">حول أوبريت AI</string>
     <string name="about_version">الإصدار: %1$s</string>
-    <string name="about_description">Operit AI هو تطبيق مساعد ذكي يساعد المستخدمين على استخدام أجهزتهم بكفاءة أكبر، ويوفر تحليل الواجهة ومحادثات الدردشة والمزيد.</string>
+    <string name="about_description">كيان AI هو تطبيق مساعد ذكي يساعد المستخدمين على استخدام أجهزتهم بكفاءة أكبر، ويوفر تحليل الواجهة ومحادثات الدردشة والمزيد.</string>
     <string name="about_developer">المطور: &lt;a href = \"https://github.com/AAswordman\"&gt;AAswordman&lt;/a&gt;</string>
     <string name="about_contact">اتصل بنا: aaswordsman@foxmail.com</string>
     <string name="about_website">&lt;a href = \"https://github.com/AAswordman/Operit\"&gt;GitHub: https://github.com/AAswordman/Operit&lt;/a&gt;</string>
@@ -1153,13 +1153,13 @@
     <string name="agreement_subtitle">يرجى قراءة الشروط التالية والموافقة عليها قبل الاستخدام.</string>
     <string name="agreement_version">نسخة الاتفاقية: %1$s</string>
     <string name="agreement_human_readable_title">نسخة لغة مبسطة (ليست وثيقة قانونية)</string>
-    <string name="agreement_human_readable_content">حدود الخدمة: لا توفر شركة Operit خدمات التفاعل العاطفي المجسمة المتاحة للجمهور. Operit هو عميل مفتوح المصدر يعمل محليًا على جهازك. ولا يقوم بتشغيل خدمات الاستدلال النموذجي أو استضافة جلسات الدردشة أو بيانات التفاعل أو توزيع بيانات اعتماد النموذج المشترك. يتم إرسال طلبات النماذج السحابية مباشرةً من جهازك إلى موفر النموذج الذي قمت بتكوينه باستخدام بيانات الاعتماد الخاصة بك؛ وتخضع البيانات ذات الصلة لقواعد ذلك المزود. تعمل النماذج المحلية على الاستدلال على جهازك.\n\nيمكن لهذا التطبيق استدعاء الملفات والمحطات الطرفية والأتمتة والجذر وADB والإضافات والإمكانات المشابهة. تحقق من العمليات قبل تشغيلها، وقم بعمل نسخة احتياطية من البيانات المهمة، وامنح الأذونات بعناية. يجب التعامل مع الخسائر المتعلقة بالأجهزة أو البيانات أو الحسابات أو المصالح الأخرى الناجمة عن إجراءات المستخدم أو تكوين المستخدم أو خدمات الجهات الخارجية أو ملحقات الجهات الخارجية بواسطة المشغل الفعلي بموجب القانون المعمول به.\n\nتنتمي المكونات الإضافية والبرامج النصية والمهارات ومجموعات الأدوات ومحتويات السوق الأخرى التابعة لجهات خارجية إلى مؤلفيها أو أصحاب الحقوق المصنفين، بالإضافة إلى المسؤولية ذات الصلة. لا يعني إدراج أو تثبيت السوق أن شركة Operit تضمن هذا المحتوى أو تؤيده أو تحصل على حقوقه. تأكد من حالة الترخيص والحقوق قبل استخدامه أو تعديله أو نشره أو إعادة توزيعه.</string>
+    <string name="agreement_human_readable_content">حدود الخدمة: لا توفر شركة كيان خدمات التفاعل العاطفي المجسمة المتاحة للجمهور. كيان هو عميل مفتوح المصدر يعمل محليًا على جهازك. ولا يقوم بتشغيل خدمات الاستدلال النموذجي أو استضافة جلسات الدردشة أو بيانات التفاعل أو توزيع بيانات اعتماد النموذج المشترك. يتم إرسال طلبات النماذج السحابية مباشرةً من جهازك إلى موفر النموذج الذي قمت بتكوينه باستخدام بيانات الاعتماد الخاصة بك؛ وتخضع البيانات ذات الصلة لقواعد ذلك المزود. تعمل النماذج المحلية على الاستدلال على جهازك.\n\nيمكن لهذا التطبيق استدعاء الملفات والمحطات الطرفية والأتمتة والجذر وADB والإضافات والإمكانات المشابهة. تحقق من العمليات قبل تشغيلها، وقم بعمل نسخة احتياطية من البيانات المهمة، وامنح الأذونات بعناية. يجب التعامل مع الخسائر المتعلقة بالأجهزة أو البيانات أو الحسابات أو المصالح الأخرى الناجمة عن إجراءات المستخدم أو تكوين المستخدم أو خدمات الجهات الخارجية أو ملحقات الجهات الخارجية بواسطة المشغل الفعلي بموجب القانون المعمول به.\n\nتنتمي المكونات الإضافية والبرامج النصية والمهارات ومجموعات الأدوات ومحتويات السوق الأخرى التابعة لجهات خارجية إلى مؤلفيها أو أصحاب الحقوق المصنفين، بالإضافة إلى المسؤولية ذات الصلة. لا يعني إدراج أو تثبيت السوق أن شركة كيان تضمن هذا المحتوى أو تؤيده أو تحصل على حقوقه. تأكد من حالة الترخيص والحقوق قبل استخدامه أو تعديله أو نشره أو إعادة توزيعه.</string>
     <string name="agreement_serious_title">اتفاقية قانونية رسمية</string>
     <string name="agreement_serious_content"><![CDATA[
-        <p><b>Operit اتفاقية المستخدم وسياسة الخصوصية</b><br>الإصدار: 2026-07-15؛ تاريخ السريان المقصود: 15 يوليو 2026.</p>
-        <p><b>1. النطاق وإصدار الاتفاقية</b><br> تنطبق هذه الاتفاقية على عميل Operit Android الذي تم إصداره رسميًا وميزاته الاختيارية عبر الإنترنت. باستخدام هذا التطبيق، فإنك تؤكد أنك قد قرأت وقبلت الإصدار الحالي. يسجل التطبيق نسخة الاتفاقية التي قبلتها عند بدء التشغيل؛ عندما يتم تحديث الاتفاقية ماديًا، سيطلب منك التطبيق تأكيد الإصدار الجديد قبل المتابعة. الكود مفتوح المصدر الموجود في المستودع مرخص بموجب ترخيص GNU العام الأصغر الإصدار 3 (LGPLv3) في الملف الجذر <code>LICENSE</code>. لا تستبعد هذه الاتفاقية أو تقلل من الحقوق الممنوحة بموجب القانون المعمول به أو التراخيص مفتوحة المصدر.</p>
-        <p><b>2. تحديد موضع المنتج وخدمات الطرف الثالث</b><br>Operit هو برنامج عميل مفتوح المصدر. ولا يوفر استدلالًا كبيرًا لنموذج اللغة، أو مفاتيح API المشتركة، أو ترحيل طلبات الدردشة، أو الاستضافة السحابية لسجلات الدردشة. يتم تحديد النماذج السحابية والصوت السحابي والبحث وإنشاء الصور وMCP وميزات الشبكة الأخرى وتكوينها وتمكينها بواسطتك. عند استخدام هذه الخدمات، يتم إرسال البيانات مباشرة إلى مزود الخدمة المقابل وتخضع لشروط وسياسة الخصوصية الخاصة بهذا المزود. يجب عليك تقييم سلامة وشرعية وملاءمة مقدمي الخدمة والنماذج ونقاط النهاية والامتدادات، والحفاظ على أمان بيانات الاعتماد.</p>
-        <p><b>3. معالجة البيانات والخصوصية</b><br> يتم عادةً تخزين سجلات الدردشة وبطاقات الشخصيات والذكريات وتكوين النموذج ومفاتيح API في بيانات التطبيق على جهازك. عندما تقوم بتصدير الملفات أو نسخها احتياطيًا أو تحميلها بشكل نشط أو استخدام ميزات شبكة خارجية أو إرسال طلبات إلى خدمة HTTP خارجية، فسيتم نسخ البيانات ذات الصلة أو نقلها أو الكشف عنها وفقًا لإجراءاتك. يجوز للسوق والإعلانات وعمليات التحقق من التحديث وتسجيل الدخول إلى GitHub وميزات النشر الوصول إلى Operit أو GitHub أو موارد الجهات الخارجية ذات الصلة؛ لا تقوم هذه الميزات بترحيل طلبات نماذج الدردشة. قم بإدارة بياناتك وبيانات الاعتماد الخاصة بك جنبًا إلى جنب مع إعدادات أمان الجهاز وشروط خدمة الطرف الثالث وهذه الاتفاقية.</p>
+        <p><b>كيان اتفاقية المستخدم وسياسة الخصوصية</b><br>الإصدار: 2026-07-15؛ تاريخ السريان المقصود: 15 يوليو 2026.</p>
+        <p><b>1. النطاق وإصدار الاتفاقية</b><br> تنطبق هذه الاتفاقية على عميل كيان Android الذي تم إصداره رسميًا وميزاته الاختيارية عبر الإنترنت. باستخدام هذا التطبيق، فإنك تؤكد أنك قد قرأت وقبلت الإصدار الحالي. يسجل التطبيق نسخة الاتفاقية التي قبلتها عند بدء التشغيل؛ عندما يتم تحديث الاتفاقية ماديًا، سيطلب منك التطبيق تأكيد الإصدار الجديد قبل المتابعة. الكود مفتوح المصدر الموجود في المستودع مرخص بموجب ترخيص GNU العام الأصغر الإصدار 3 (LGPLv3) في الملف الجذر <code>LICENSE</code>. لا تستبعد هذه الاتفاقية أو تقلل من الحقوق الممنوحة بموجب القانون المعمول به أو التراخيص مفتوحة المصدر.</p>
+        <p><b>2. تحديد موضع المنتج وخدمات الطرف الثالث</b><br>كيان هو برنامج عميل مفتوح المصدر. ولا يوفر استدلالًا كبيرًا لنموذج اللغة، أو مفاتيح API المشتركة، أو ترحيل طلبات الدردشة، أو الاستضافة السحابية لسجلات الدردشة. يتم تحديد النماذج السحابية والصوت السحابي والبحث وإنشاء الصور وMCP وميزات الشبكة الأخرى وتكوينها وتمكينها بواسطتك. عند استخدام هذه الخدمات، يتم إرسال البيانات مباشرة إلى مزود الخدمة المقابل وتخضع لشروط وسياسة الخصوصية الخاصة بهذا المزود. يجب عليك تقييم سلامة وشرعية وملاءمة مقدمي الخدمة والنماذج ونقاط النهاية والامتدادات، والحفاظ على أمان بيانات الاعتماد.</p>
+        <p><b>3. معالجة البيانات والخصوصية</b><br> يتم عادةً تخزين سجلات الدردشة وبطاقات الشخصيات والذكريات وتكوين النموذج ومفاتيح API في بيانات التطبيق على جهازك. عندما تقوم بتصدير الملفات أو نسخها احتياطيًا أو تحميلها بشكل نشط أو استخدام ميزات شبكة خارجية أو إرسال طلبات إلى خدمة HTTP خارجية، فسيتم نسخ البيانات ذات الصلة أو نقلها أو الكشف عنها وفقًا لإجراءاتك. يجوز للسوق والإعلانات وعمليات التحقق من التحديث وتسجيل الدخول إلى GitHub وميزات النشر الوصول إلى كيان أو GitHub أو موارد الجهات الخارجية ذات الصلة؛ لا تقوم هذه الميزات بترحيل طلبات نماذج الدردشة. قم بإدارة بياناتك وبيانات الاعتماد الخاصة بك جنبًا إلى جنب مع إعدادات أمان الجهاز وشروط خدمة الطرف الثالث وهذه الاتفاقية.</p>
         <p><b>4. النشر الخارجي ومسؤولية المشغل </b><br> يتم تمكين خدمات HTTP الخارجية وQQ Bot والرد التلقائي والإمكانيات المماثلة حسب اختيارك. إذا قمت بإتاحتها للآخرين أو للجمهور، فإنك تعمل كموزع أو مشغل فعلي وتكون مسؤولاً عن التحكم في الوصول، وتفويض المستخدم، وأمان المحتوى، وحماية البيانات، وحماية الصغار، والإشعارات المطلوبة، والالتزامات الأخرى المعمول بها. إذا كنت تقدم باستمرار خدمات التفاعل العاطفي للجمهور في بر الصين الرئيسي والتي تحاكي سمات شخصية الشخص الطبيعي أو أنماط التفكير أو أساليب الاتصال، فيجب عليك تقييم التدابير المؤقتة لإدارة خدمات التفاعل المجسم للذكاء الاصطناعي وغيرها من القواعد المعمول بها والامتثال لها. يجب ألا تستخدم هذا التطبيق لتوفير أقارب افتراضيين أو مرافقين افتراضيين أو غيرها من خدمات العلاقات الحميمة الافتراضية للقاصرين، أو الحث على الاعتماد العاطفي أو الإدمان، أو إجراء التلاعب العاطفي، أو انتهاك الحقوق والمصالح المشروعة للآخرين.</p>
         <p><b>5. الاستخدام القانوني ومسؤولية المحتوى</b><br>يجب عليك الالتزام بالقوانين واللوائح المعمول بها، وقواعد خدمة الطرف الثالث، وقواعد النظام الأساسي. يجب ألا تستخدم هذا التطبيق أو الإضافات أو التكوين للقيام بأنشطة غير قانونية، أو انتهاك حقوق الآخرين، أو الوصول إلى الأنظمة أو البيانات دون إذن، أو نشر محتوى غير قانوني أو ضار. أنت مسؤول عن المحتوى وعن إجراء إدخاله أو تكوينه أو إنشائه أو نشره أو إعادة توجيهه أو تشغيله. قد تحتوي مخرجات AI على أخطاء أو سهو أو تحيز ولا تشكل نصيحة طبية أو أزمة صحية عقلية أو قانونية أو مالية أو أي نصيحة مهنية أخرى. في المواقف الخطرة العاجلة، اتصل بخدمات الطوارئ المحلية أو المؤسسات الطبية أو الأشخاص الموثوق بهم على الفور.</p>
         <p><b>6. يتم توفير البرنامج على أنه Is</b><br>، إلى الحد الذي يسمح به القانون المعمول به، يتم توفير هذا البرنامج على أساس "كما هو" و"كما هو متاح". لا يقدم المساهمون أي ضمانات صريحة أو ضمنية فيما يتعلق باستمرار التوفر أو الدقة أو السلامة أو قابلية التسويق أو الملاءمة لغرض معين أو عدم انتهاك البرامج أو خدمات الطرف الثالث. يجب التعامل مع الخسائر الناجمة عن استخدام هذا البرنامج أو خدمات الجهات الخارجية أو الامتدادات أو تكوين المستخدم أو التعديلات الذاتية بموجب القانون المعمول به واتفاقيات الخدمة ذات الصلة.</p>
@@ -1171,7 +1171,7 @@
     <string name="market_agreement_title">اتفاقية سوق المكونات الإضافية وقواعد المجتمع</string>
     <string name="market_agreement_subtitle">يرجى قراءة هذه الاتفاقية والموافقة عليها قبل الدخول إلى سوق المكونات الإضافية. السوق مخصص لمشاركة المكونات الإضافية واكتشافها؛ يتم تشجيع المؤلفين على فتح المصدر من خلال مستودع GitHub العام.</string>
     <string name="market_agreement_version">نسخة اتفاقية السوق: %1$s</string>
-    <string name="market_agreement_content">1. دور السوق. سوق المكونات الإضافية لـ Operit مخصص فقط لمشاركة البرامج النصية والحزم والمهارات وخوادم MCP والامتدادات الأخرى واكتشافها وفهرستها، ولتوفير نقاط دخول للتصفح والتنزيل والتثبيت داخل السوق. السوق ليس مؤلف البرنامج الإضافي، أو المشتري، أو البائع، أو الوسيط، أو مزود الدفع، أو الضامن، أو سجل الحقوق. إن إدراج مكون إضافي أو عرضه أو تصنيفه أو التوصية به لا يعني أن Operit قامت بتطويره أو امتلاكه أو تمثيله أو المصادقة عليه.\n\n2. رخصة النشر. من خلال تقديم مكون إضافي إلى السوق، يمنح الناشر شركة Operit ترخيصًا غير حصري وغير قابل للتحويل يقتصر على ما هو ضروري لتشغيل السوق: تخزين دخول السوق وتخزينه مؤقتًا وإعادة إنتاجه ومعالجته وعرضه وفهرسته، وتوفير البرنامج الإضافي لمستخدمي السوق للتنزيل والتثبيت. ويعني النشر أيضًا أن الناشر يسمح لمستخدمي السوق بتنزيل البرنامج الإضافي وتثبيته واستخدامه للغرض المقصود منه، ولكنه لا يسمح في حد ذاته بالتعديل أو إعادة التوزيع. لا ينقل هذا الترخيص حقوق الطبع والنشر أو الملكية أو الحقوق الأخرى في البرنامج الإضافي، ولا يمنح السوق حقًا عامًا في ترخيص البرنامج الإضافي من الباطن خارج السوق. يجب أن يكون لدى الناشر الحق في منح هذا الترخيص.\n\n3. توصية GitHub مفتوحة المصدر. نوصي الناشرين بنشر التعليمات البرمجية المصدر مباشرةً في مستودع GitHub العام الذي يتحكمون فيه، بالإضافة إلى الملف التمهيدي (README) والترخيص والإصدارات أو الإصدارات وسجلات التغيير، وتسجيل هذا المصدر في السوق. لا يمنح مستودع GitHub المرئي بشكل عام ترخيصًا مفتوح المصدر تلقائيًا. يجب أن يأتي إذن الاستخدام أو التعديل أو إعادة التوزيع من ترخيص المصدر المفتوح المعلن للمؤلف أو أي ترخيص كتابي آخر.\n\n4. استخدام المستخدم وإعادة التوزيع. يظل الحق في إعادة توزيع المكون الإضافي مع مؤلفه أو صاحب الحقوق الآخر ما لم يسمح الترخيص المعمول به أو ترخيص آخر بذلك. لا يمنح الإذن السابق للتنزيل والتثبيت والاستخدام كل مستخدم الحق في تحميل المكون الإضافي أو إعادة توجيهه أو إعادة تجميعه أو بيعه أو إعادة نشره. ما لم ينص القانون على خلاف ذلك، لا يجوز للمستخدمين تعديل وإعادة توزيع البرنامج الإضافي إلا بموجب الترخيص أو التفويض المنصوص عليه من قبل المؤلف. لا يجوز للمستخدمين إعادة توزيع المكون الإضافي بدون إذن بإعادة التوزيع. يتم تحديد حقوق البرنامج الإضافي مفتوح المصدر من خلال ترخيصه مفتوح المصدر.\n\n5. مخاطر الطرف الثالث والمسؤولية الأمنية. تحتوي المكونات الإضافية على أذونات كود وتكوين ووقت تشغيل مستقلة. يمكنهم تنفيذ التعليمات البرمجية أو بدء الخدمات المحلية أو الوصول إلى الملفات أو قراءة متغيرات البيئة أو الاتصال بالشبكة. يجب على المستخدمين مراجعة وتحمل مخاطر تمكين المكونات الإضافية وتثبيتها واستخدامها. يجب ألا يلتزم الناشرون بمفاتيح API أو ملفات تعريف الارتباط أو الرموز المميزة أو المفاتيح الخاصة أو كلمات المرور أو بيانات المستخدم للمكونات الإضافية أو المستودعات أو الأمثلة أو التكوين، ويجب عليهم الكشف بدقة عن المؤلف والترخيص والأذونات وسلوك الشبكة ومتغيرات البيئة والخدمات الخارجية والمخاطر المعروفة. لا تضمن شركة Operit أمان أو دقة أو توفر أو شرعية أو توافق ملحقات الجهات الخارجية.\n\n6. التعليقات وسلوك المجتمع. يجب أن تتعلق التعليقات بميزات البرنامج المساعد أو الاستخدام أو العيوب أو مشكلات الأمان. لا تنشر QQ أو Telegram أو Discord أو أرقام المجموعات الأخرى أو تفاصيل الاتصال أو الإعلانات أو تحويل حركة المرور أو معلومات المعاملات أو الروابط غير ذات الصلة أو أي محتوى تخريبي آخر. لا تكشف عن مفاتيح API، أو ملفات تعريف الارتباط، أو الرموز المميزة، أو المفاتيح الخاصة، أو كلمات المرور، أو البيانات الشخصية.\n\n7. لا تداول أو تحويل. لا تقم بشراء أو بيع أو إعادة بيع أو تقديم تثبيت مدفوع للمكونات الإضافية في السوق. لا تستخدم المدفوعات أو النصائح أو العضويات أو الرسائل الخاصة أو روابط الجهات الخارجية لفرض رسوم على الآخرين مقابل المكونات الإضافية المجانية. لا يوفر السوق خدمات الدفع أو الاستيفاء أو استرداد الأموال أو نزاعات المعاملات. لا تتطلب المكونات الإضافية المجانية الدفع لأي شخص؛ لا يتم اعتماد الرسوم أو التراخيص أو الوعود من قنوات الطرف الثالث بواسطة Operit.\n\n8. حدود خدمة السوق. لتوفير المشاركة والتنزيل والتثبيت، يجوز للسوق تخزين إدخالات السوق وملفات المكونات الإضافية أو تخزينها مؤقتًا أو نقلها، ولكنه لا يعد بالاستضافة الدائمة أو النسخ الاحتياطي أو السرية أو مكافحة النسخ. النشر في السوق يعني أن المؤلف يأذن للسوق بتوفير التنزيل والتثبيت لمستخدمي السوق بموجب هذه الاتفاقية؛ فهو لا يمنح الجمهور تلقائيًا الحق في إعادة توزيع البرنامج الإضافي. قد يعتمد التوفر والوصول المستمر على مستودع المؤلف وGitHub وخدمات الجهات الخارجية الأخرى.\n\n9. التنفيذ والتحديثات. قد يتم تقييد التعليقات أو الإدخالات أو الحسابات التي تنتهك هذه القواعد أو إخفاؤها أو إزالتها. عندما تتغير اتفاقية السوق هذه بشكل جوهري بسبب متطلبات المنتج أو المتطلبات القانونية أو الأمنية، سيتم زيادة نسختها. يجب على المستخدمين قراءة الاتفاقية المحدثة وتأكيدها عند دخولهم السوق بعد ذلك.</string>
+    <string name="market_agreement_content">1. دور السوق. سوق المكونات الإضافية لـ كيان مخصص فقط لمشاركة البرامج النصية والحزم والمهارات وخوادم MCP والامتدادات الأخرى واكتشافها وفهرستها، ولتوفير نقاط دخول للتصفح والتنزيل والتثبيت داخل السوق. السوق ليس مؤلف البرنامج الإضافي، أو المشتري، أو البائع، أو الوسيط، أو مزود الدفع، أو الضامن، أو سجل الحقوق. إن إدراج مكون إضافي أو عرضه أو تصنيفه أو التوصية به لا يعني أن كيان قامت بتطويره أو امتلاكه أو تمثيله أو المصادقة عليه.\n\n2. رخصة النشر. من خلال تقديم مكون إضافي إلى السوق، يمنح الناشر شركة كيان ترخيصًا غير حصري وغير قابل للتحويل يقتصر على ما هو ضروري لتشغيل السوق: تخزين دخول السوق وتخزينه مؤقتًا وإعادة إنتاجه ومعالجته وعرضه وفهرسته، وتوفير البرنامج الإضافي لمستخدمي السوق للتنزيل والتثبيت. ويعني النشر أيضًا أن الناشر يسمح لمستخدمي السوق بتنزيل البرنامج الإضافي وتثبيته واستخدامه للغرض المقصود منه، ولكنه لا يسمح في حد ذاته بالتعديل أو إعادة التوزيع. لا ينقل هذا الترخيص حقوق الطبع والنشر أو الملكية أو الحقوق الأخرى في البرنامج الإضافي، ولا يمنح السوق حقًا عامًا في ترخيص البرنامج الإضافي من الباطن خارج السوق. يجب أن يكون لدى الناشر الحق في منح هذا الترخيص.\n\n3. توصية GitHub مفتوحة المصدر. نوصي الناشرين بنشر التعليمات البرمجية المصدر مباشرةً في مستودع GitHub العام الذي يتحكمون فيه، بالإضافة إلى الملف التمهيدي (README) والترخيص والإصدارات أو الإصدارات وسجلات التغيير، وتسجيل هذا المصدر في السوق. لا يمنح مستودع GitHub المرئي بشكل عام ترخيصًا مفتوح المصدر تلقائيًا. يجب أن يأتي إذن الاستخدام أو التعديل أو إعادة التوزيع من ترخيص المصدر المفتوح المعلن للمؤلف أو أي ترخيص كتابي آخر.\n\n4. استخدام المستخدم وإعادة التوزيع. يظل الحق في إعادة توزيع المكون الإضافي مع مؤلفه أو صاحب الحقوق الآخر ما لم يسمح الترخيص المعمول به أو ترخيص آخر بذلك. لا يمنح الإذن السابق للتنزيل والتثبيت والاستخدام كل مستخدم الحق في تحميل المكون الإضافي أو إعادة توجيهه أو إعادة تجميعه أو بيعه أو إعادة نشره. ما لم ينص القانون على خلاف ذلك، لا يجوز للمستخدمين تعديل وإعادة توزيع البرنامج الإضافي إلا بموجب الترخيص أو التفويض المنصوص عليه من قبل المؤلف. لا يجوز للمستخدمين إعادة توزيع المكون الإضافي بدون إذن بإعادة التوزيع. يتم تحديد حقوق البرنامج الإضافي مفتوح المصدر من خلال ترخيصه مفتوح المصدر.\n\n5. مخاطر الطرف الثالث والمسؤولية الأمنية. تحتوي المكونات الإضافية على أذونات كود وتكوين ووقت تشغيل مستقلة. يمكنهم تنفيذ التعليمات البرمجية أو بدء الخدمات المحلية أو الوصول إلى الملفات أو قراءة متغيرات البيئة أو الاتصال بالشبكة. يجب على المستخدمين مراجعة وتحمل مخاطر تمكين المكونات الإضافية وتثبيتها واستخدامها. يجب ألا يلتزم الناشرون بمفاتيح API أو ملفات تعريف الارتباط أو الرموز المميزة أو المفاتيح الخاصة أو كلمات المرور أو بيانات المستخدم للمكونات الإضافية أو المستودعات أو الأمثلة أو التكوين، ويجب عليهم الكشف بدقة عن المؤلف والترخيص والأذونات وسلوك الشبكة ومتغيرات البيئة والخدمات الخارجية والمخاطر المعروفة. لا تضمن شركة كيان أمان أو دقة أو توفر أو شرعية أو توافق ملحقات الجهات الخارجية.\n\n6. التعليقات وسلوك المجتمع. يجب أن تتعلق التعليقات بميزات البرنامج المساعد أو الاستخدام أو العيوب أو مشكلات الأمان. لا تنشر QQ أو Telegram أو Discord أو أرقام المجموعات الأخرى أو تفاصيل الاتصال أو الإعلانات أو تحويل حركة المرور أو معلومات المعاملات أو الروابط غير ذات الصلة أو أي محتوى تخريبي آخر. لا تكشف عن مفاتيح API، أو ملفات تعريف الارتباط، أو الرموز المميزة، أو المفاتيح الخاصة، أو كلمات المرور، أو البيانات الشخصية.\n\n7. لا تداول أو تحويل. لا تقم بشراء أو بيع أو إعادة بيع أو تقديم تثبيت مدفوع للمكونات الإضافية في السوق. لا تستخدم المدفوعات أو النصائح أو العضويات أو الرسائل الخاصة أو روابط الجهات الخارجية لفرض رسوم على الآخرين مقابل المكونات الإضافية المجانية. لا يوفر السوق خدمات الدفع أو الاستيفاء أو استرداد الأموال أو نزاعات المعاملات. لا تتطلب المكونات الإضافية المجانية الدفع لأي شخص؛ لا يتم اعتماد الرسوم أو التراخيص أو الوعود من قنوات الطرف الثالث بواسطة Operit.\n\n8. حدود خدمة السوق. لتوفير المشاركة والتنزيل والتثبيت، يجوز للسوق تخزين إدخالات السوق وملفات المكونات الإضافية أو تخزينها مؤقتًا أو نقلها، ولكنه لا يعد بالاستضافة الدائمة أو النسخ الاحتياطي أو السرية أو مكافحة النسخ. النشر في السوق يعني أن المؤلف يأذن للسوق بتوفير التنزيل والتثبيت لمستخدمي السوق بموجب هذه الاتفاقية؛ فهو لا يمنح الجمهور تلقائيًا الحق في إعادة توزيع البرنامج الإضافي. قد يعتمد التوفر والوصول المستمر على مستودع المؤلف وGitHub وخدمات الجهات الخارجية الأخرى.\n\n9. التنفيذ والتحديثات. قد يتم تقييد التعليقات أو الإدخالات أو الحسابات التي تنتهك هذه القواعد أو إخفاؤها أو إزالتها. عندما تتغير اتفاقية السوق هذه بشكل جوهري بسبب متطلبات المنتج أو المتطلبات القانونية أو الأمنية، سيتم زيادة نسختها. يجب على المستخدمين قراءة الاتفاقية المحدثة وتأكيدها عند دخولهم السوق بعد ذلك.</string>
     
     <!-- Sherpa -->
     <string name="sherpa_k2_ncnn_init_failed">فشلت تهيئة محرك التعرف على الكلام في الوقت الحقيقي</string>
@@ -1746,7 +1746,7 @@
     <string name="accessibility_wizard_install_provider">قم بتثبيت تطبيق الموفر</string>
     <string name="accessibility_wizard_enable_message">الآن، قم بتمكين خدمة الوصول في إعدادات جهازك. يتيح ذلك لتطبيق الموفر تحليل محتوى الشاشة.</string>
     <string name="accessibility_wizard_enable_note">ملاحظة هامة:</string>
-    <string name="accessibility_wizard_enable_note_details">يجب عليك تحديد وتمكين \"Operit Accessibility Provider\" من قائمة الخدمات.</string>
+    <string name="accessibility_wizard_enable_note_details">يجب عليك تحديد وتمكين \"كيان Accessibility Provider\" من قائمة الخدمات.</string>
     <string name="accessibility_wizard_open_settings">افتح إعدادات إمكانية الوصول</string>
     <string name="accessibility_wizard_success_message">تم تكوين خدمة إمكانية الوصول بشكل صحيح وجاهزة للاستخدام!</string>
 
@@ -1843,7 +1843,7 @@
     <string name="permission_guide_intro_2_title">مجموعة أدوات قوية للمهوسين والمطورين</string>
     <string name="permission_guide_intro_2_desc">مع أكثر من 40 أداة احترافية مدمجة لإدارة الملفات وطلبات الويب وتنفيذ البرامج النصية والتحكم في النظام. ومع نظام المكونات الإضافية القوي، يمكنك أتمتة المهام والتحكم العميق في جهازك.</string>
     <string name="permission_guide_intro_3_title">أطلق العنان للإبداع، في وضع الاستعداد دائمًا</string>
-    <string name="permission_guide_intro_3_desc">سواء كنت تصمم صفحات الويب أو تعالج ملفات الوسائط أو تصل إلى AI عبر نافذتها العائمة، توفر Operit بيئة قوية ومرنة وآمنة للإنشاء والمساعدة. بياناتك، تحكمك.</string>
+    <string name="permission_guide_intro_3_desc">سواء كنت تصمم صفحات الويب أو تعالج ملفات الوسائط أو تصل إلى AI عبر نافذتها العائمة، توفر كيان بيئة قوية ومرنة وآمنة للإنشاء والمساعدة. بياناتك، تحكمك.</string>
     <string name="permission_guide_intro_page_indicator">جولة مميزة %1$d/%2$d</string>
 
     <string name="debugger_accessibility_fallback_title">تسريع إمكانية الوصول (عالية المخاطر)</string>
@@ -2239,7 +2239,7 @@
     <string name="tool_user_agreement">اتفاقية المستخدم</string>
     <string name="tool_user_agreement_desc">عرض اتفاقية المستخدم وسياسة الخصوصية للتطبيق</string>
     <string name="tool_default_assistant_guide">إعداد المساعد الافتراضي</string>
-    <string name="tool_default_assistant_guide_desc">قم بتعيين صوت Operit العائم كمساعد افتراضي للنظام</string>
+    <string name="tool_default_assistant_guide_desc">قم بتعيين صوت كيان العائم كمساعد افتراضي للنظام</string>
     <string name="tool_terminal">محطة القيادة</string>
     <string name="tool_terminal_desc">محطة سطر أوامر قوية لتنفيذ أوامر النظام</string>
     <string name="tool_terminal_auto_config">التكوين التلقائي للمحطة</string>
@@ -4616,7 +4616,7 @@
     <string name="market_allow_public_updates_title">السماح لأي شخص بتحديث هذا المكون الإضافي</string>
     <string name="market_allow_public_updates_desc">عند التفعيل، يمكن للمستخدمين الآخرين المُسجلين الدخول إرسال إصدارات جديدة لهذا المكون الإضافي. يمكن للناشر الأصلي فقط تغيير هذا الخيار.</string>
     <string name="artifact_publish_encrypt_title">تشفير الأصل المنشور</string>
-    <string name="artifact_publish_encrypt_desc">عند التفعيل، يتم تصغير الكود المصدري AST وتحميل موارد الحزمة بتنسيق Operit المحمي. يظل التثبيت والتخزين المؤقت مشفرين، وتتم قراءة وقت التشغيل بفك التشفير تلقائياً.</string>
+    <string name="artifact_publish_encrypt_desc">عند التفعيل، يتم تصغير الكود المصدري AST وتحميل موارد الحزمة بتنسيق كيان المحمي. يظل التثبيت والتخزين المؤقت مشفرين، وتتم قراءة وقت التشغيل بفك التشفير تلقائياً.</string>
     <string name="artifact_publish_encrypt_confirmation">نشر مشفر: %1$s</string>
     <string name="artifact_publish_encrypt_market_toolpkg_title">تصغير وتعتيم بغرض النشر</string>
     <string name="artifact_publish_encrypt_market_toolpkg_desc">عند التفعيل، ستخضع البرامج النصية القابلة للتنفيذ في ToolPkg لضغط شجرة بناء الجملة لـ JS. تظل الحزمة المضغوطة عبارة عن ملف ZIP عادى ويمكن استيرادها مباشرة.</string>
@@ -4893,11 +4893,11 @@
     <string name="artifact_project_node_view_title">عرض Node</string>
     <string name="artifact_project_nodes_loading">جاري تحميل Nodes للمشروع...</string>
     <string name="artifact_project_node_selection_hint">انقر لتحديد Node، وانقر مرة أخرى إلغاء التحديد.</string>
-    <string name="plugin_creation_fresh_task_line">يرجى تفعيل Operit Editor واستخدام مجموعة ادوات تطوير حزمة sandbox لتطوير حزمة sandbox جديدة.</string>
+    <string name="plugin_creation_fresh_task_line">يرجى تفعيل كيان Editor واستخدام مجموعة ادوات تطوير حزمة sandbox لتطوير حزمة sandbox جديدة.</string>
     <string name="plugin_creation_fresh_package_rule_line">قم أولاً بتحديد معرف حزمة sandbox الجديد، ولا تقم بتغيير اسمه لاحقاً.</string>
     <string name="plugin_creation_fresh_dev_directory_line">مجلد التطوير ثابت على Downloads/Operit/dev_package/your_determined_id. يتم إجراء التطوير والتثبيت والاختبار هنا.</string>
-    <string name="plugin_creation_continue_task_line">يرجى تفعيل Operit Editor، وتحديد حزمة sandbox %1$s، ومتابعة التطوير والاختبار بناءً على هذا الإصدار.</string>
-    <string name="plugin_creation_merge_task_line">يرجى تفعيل Operit Editor، وتحديد حزمة sandbox %1$s، وإجراء تطوير الدمج والاختبار بناءً على هذا الإصدار.</string>
+    <string name="plugin_creation_continue_task_line">يرجى تفعيل كيان Editor، وتحديد حزمة sandbox %1$s، ومتابعة التطوير والاختبار بناءً على هذا الإصدار.</string>
+    <string name="plugin_creation_merge_task_line">يرجى تفعيل كيان Editor، وتحديد حزمة sandbox %1$s، وإجراء تطوير الدمج والاختبار بناءً على هذا الإصدار.</string>
     <string name="plugin_creation_existing_package_rule_line">معرف حزمة sandbox الحالي هو %1$s. يجب الاحتفاظ بمعرف الحزمة واسم المكون الإضافي؛ لا تقم بإعادة التسمية أو إنشاء حزمة جديدة.</string>
     <string name="plugin_creation_existing_dev_directory_line">مجلد التطوير ثابت على Downloads/Operit/dev_package/%1$s. يتم إجراء التطوير والتثبيت والاختبار هنا.</string>
     <string name="plugin_creation_update_sandbox_package_dev">قم بتحديث SandboxPackage_DEV أولاً.</string>
@@ -4919,14 +4919,14 @@
     <string name="min_supported_app_version">إصدار التطبيق الأدنى المدعوم</string>
     <string name="max_supported_app_version">إصدار التطبيق الأقصى المدعوم</string>
     <string name="min_supported_version_input_hint">مطلوب. أدخل إصداراً مثل `1.10.0` أو `1.10.0+5`</string>
-    <string name="max_supported_version_input_hint">اختياري؛ الفراغ يعني افتراضياً 1.99.99. الإصدار 2.0.0 أو أعلى يدعم Operit 2</string>
-    <string name="operit2_version_warning_title">تأكيد دعم Operit 2؟</string>
-    <string name="operit2_version_warning_message">سيسمح هذا لـ Operit 2 باستخدام هذا المكون الإضافي. تأكد من أن المكون الإضافي يعمل بشكل صحيح على Operit 2.</string>
+    <string name="max_supported_version_input_hint">اختياري؛ الفراغ يعني افتراضياً 1.99.99. الإصدار 2.0.0 أو أعلى يدعم كيان 2</string>
+    <string name="operit2_version_warning_title">تأكيد دعم كيان 2؟</string>
+    <string name="operit2_version_warning_message">سيسمح هذا لـ كيان 2 باستخدام هذا المكون الإضافي. تأكد من أن المكون الإضافي يعمل بشكل صحيح على كيان 2.</string>
     <string name="publish_failed_title">فشل النشر</string>
     <string name="retry_market_registration">إعادة محاولة تسجيل السوق</string>
     <string name="update_to_market">تحديث إلى السوق</string>
     <string name="create_operit_forge_title">إنشاء OperitForge؟</string>
-    <string name="create_operit_forge_message">هذا هو نشرك المباشر الأول. يحتاج Operit إلى إنشاء مستودع عام `OperitForge` تحت حساب GitHub الخاص بك.</string>
+    <string name="create_operit_forge_message">هذا هو نشرك المباشر الأول. يحتاج كيان إلى إنشاء مستودع عام `OperitForge` تحت حساب GitHub الخاص بك.</string>
     <string name="confirm_create_public_forge_title">تأكيد إنشاء مستودع عام</string>
     <string name="confirm_create_public_forge_message">يرجى التأكيد مرة أخرى: إنشاء المستودع العام `OperitForge` الآن. عمليات النشر المستقبلية ستعيد استخدام هذا المستودع.</string>
     <string name="create_and_publish">إنشاء ونشر</string>
@@ -5123,14 +5123,14 @@
     <string name="mcp_issue_body_title_install_info">## معلومات التثبيت</string>
     <string name="mcp_issue_body_repo_address">**المستودع:** %1$s</string>
     <string name="mcp_issue_body_title_install_method">### التثبيت</string>
-    <string name="mcp_issue_body_install_step1">1. افتح شاشة إعدادات Operit MCP واضغط على \"استيراد\"</string>
+    <string name="mcp_issue_body_install_step1">1. افتح شاشة إعدادات كيان MCP واضغط على \"استيراد\"</string>
     <string name="mcp_issue_body_install_step2">2. حدد \"استيراد من المستودع\"</string>
     <string name="mcp_issue_body_install_step3">3. أدخل URL المستودع: `%1$s`</string>
     <string name="mcp_issue_body_install_step4">4. قم بتعيين اسم الإضافة واضغط على استيراد</string>
     <string name="mcp_issue_body_title_tech_info">## المعلومات التقنية</string>
-    <string name="mcp_issue_body_tech_platform">- **المنصة:** Operit MCP Market</string>
+    <string name="mcp_issue_body_tech_platform">- **المنصة:** كيان MCP Market</string>
     <string name="mcp_issue_body_tech_publish_time">- **وقت النشر:** %1$s</string>
-    <string name="mcp_issue_body_footer_note">*تم إنشاء هذه المشكلة تلقائياً بواسطة Operit*</string>
+    <string name="mcp_issue_body_footer_note">*تم إنشاء هذه المشكلة تلقائياً بواسطة كيان*</string>
 
     <string name="mcp_publish_body_section_plugin_info">## 📋 معلومات الإضافة</string>
     <string name="mcp_publish_body_label_description">**الوصف:** %1$s</string>
@@ -5139,18 +5139,18 @@
     <string name="mcp_publish_body_section_quick_install">## ⚡ تثبيت سريع</string>
     <string name="mcp_publish_body_section_install_method">## 📦 التثبيت</string>
     <string name="mcp_publish_body_method_repo_import_title">### الطريقة 1: الاستيراد من المستودع</string>
-    <string name="mcp_publish_body_method_repo_import_step1">1. افتح شاشة إعدادات Operit MCP</string>
+    <string name="mcp_publish_body_method_repo_import_step1">1. افتح شاشة إعدادات كيان MCP</string>
     <string name="mcp_publish_body_method_repo_import_step2">2. انقر على \"استيراد\" ← \"استيراد من المستودع\"</string>
     <string name="mcp_publish_body_method_repo_import_step3">3. أدخل URL الخاص بالمستودع: `%1$s`</string>
     <string name="mcp_publish_body_method_repo_import_step4">4. حدد اسم الإضافة واسترِدها</string>
     <string name="mcp_publish_body_method_config_import_title">### الطريقة 2: استيراد التكوين</string>
-    <string name="mcp_publish_body_method_config_import_step1">1. افتح شاشة إعدادات Operit MCP</string>
+    <string name="mcp_publish_body_method_config_import_step1">1. افتح شاشة إعدادات كيان MCP</string>
     <string name="mcp_publish_body_method_config_import_step2">2. انقر على \"استيراد\" ← \"استيراد التكوين\"</string>
     <string name="mcp_publish_body_method_config_import_step3">3. الصق التكوين التالي:</string>
     <string name="mcp_publish_body_section_tech_info">## 🛠️ معلومات تقنية</string>
     <string name="mcp_publish_body_table_header">| العنصر | القيمة |</string>
     <string name="mcp_publish_body_table_separator">|------|-----|</string>
-    <string name="mcp_publish_body_table_row_platform">| المنصة | Operit MCP Market |</string>
+    <string name="mcp_publish_body_table_row_platform">| المنصة | كيان MCP Market |</string>
     <string name="mcp_publish_body_table_row_parser_version">| إصدار المحلل | 1.0 |</string>
     <string name="mcp_publish_body_table_row_publish_time">| تاريخ النشر | %1$s |</string>
 
@@ -5260,7 +5260,7 @@
     <string name="external_http_chat_health_example">مثال على التحقق من الصحة</string>
     <string name="external_http_chat_intent_title">دليل استدعاء النية</string>
     <string name="external_http_chat_intent_desc">لا يزال إدخال البث متاحًا لتكامل التطبيق المحلي أو تاسكر أو تصحيح أخطاء adb</string>
-    <string name="external_http_chat_intent_overview">يتشارك HTTP وIntent في نفس دلالات المعلمات. يختلف أسلوب الإدخال فقط.\n\nإجراء الطلب: %1$s\nإجراء النتيجة الافتراضي: %2$s\n\nالإضافات الشائعة: رسالة، request_id، مجموعة، create_new_chat، chat_id، create_if_none، show_floating، return_tool_status، الوضع الأولي، auto_exit_after_ms، stop_after، الرد_الإجراء، الرد_حزمة\n\nبعد عند الانتهاء، تقوم Operit بإرجاع النجاح ومعرف الدردشة وai_response والخطأ عن طريق البث. إذا كان من المفترض تسليم النتيجة إلى تطبيق واحد فقط، فقم بتعيين Response_package.</string>
+    <string name="external_http_chat_intent_overview">يتشارك HTTP وIntent في نفس دلالات المعلمات. يختلف أسلوب الإدخال فقط.\n\nإجراء الطلب: %1$s\nإجراء النتيجة الافتراضي: %2$s\n\nالإضافات الشائعة: رسالة، request_id، مجموعة، create_new_chat، chat_id، create_if_none، show_floating، return_tool_status، الوضع الأولي، auto_exit_after_ms، stop_after، الرد_الإجراء، الرد_حزمة\n\nبعد عند الانتهاء، تقوم كيان بإرجاع النجاح ومعرف الدردشة وai_response والخطأ عن طريق البث. إذا كان من المفترض تسليم النتيجة إلى تطبيق واحد فقط، فقم بتعيين Response_package.</string>
     <string name="external_http_chat_copy_example">نسخ المثال</string>
     <string name="external_http_chat_example_copied">تم نسخ أمر المثال</string>
     <string name="external_http_chat_service_enabled">تم تفعيل الخدمة</string>
@@ -5311,7 +5311,7 @@
     <string name="custom">مخصص</string>
 
     <!-- Voice Assistant Widget -->
-    <string name="voice_assistant_widget_description">تشغيل سريع لمساعد Operit الصوتي</string>
+    <string name="voice_assistant_widget_description">تشغيل سريع لمساعد كيان الصوتي</string>
     <string name="voice_assistant_widget_title">المساعد الصوتي</string>
     <string name="toolpkg_widget_host_label">أداة مخصصة</string>
     <string name="toolpkg_widget_host_description">أضفه وقم بربطه بصفحة عنصر واجهة مستخدم مسجلة بواسطة ملحق</string>
@@ -5458,14 +5458,14 @@
     <string name="time_days_ago">منذ %1$d يوم</string>
 
     <string name="default_assistant_guide_title">تعيين المساعد الصوتي الافتراضي</string>
-    <string name="default_assistant_guide_subtitle">اجعل Operit مساعدك الذكي</string>
-    <string name="default_assistant_guide_intro">بعد تعيين Operit كمساعد النظام الافتراضي، يمكنك تشغيل مساعد Operit الصوتي بسرعة عن طريق الضغط مطولاً على زر الشاشة الرئيسية أو باستخدام تنشيط الصوت، مما يوفر تجربة تفاعل AI أكثر ملاءمة.</string>
+    <string name="default_assistant_guide_subtitle">اجعل كيان مساعدك الذكي</string>
+    <string name="default_assistant_guide_intro">بعد تعيين كيان كمساعد النظام الافتراضي، يمكنك تشغيل مساعد كيان الصوتي بسرعة عن طريق الضغط مطولاً على زر الشاشة الرئيسية أو باستخدام تنشيط الصوت، مما يوفر تجربة تفاعل AI أكثر ملاءمة.</string>
     <string name="default_assistant_guide_steps_title">خطوات الإعداد</string>
     
     <string name="default_assistant_guide_step1_title">فتح إعدادات النظام</string>
     <string name="default_assistant_guide_step1_desc">أولاً، تحتاج إلى إدخال واجهة إعدادات نظام Android</string>
     <string name="default_assistant_guide_step1_detail1">• فتح إعدادات النظام ← التطبيقات ← التطبيقات الافتراضية ← تطبيق المساعد الرقمي</string>
-    <string name="default_assistant_guide_step1_detail2">• البحث عن وحدد \"Operit AI\" في قائمة تطبيقات المساعد</string>
+    <string name="default_assistant_guide_step1_detail2">• البحث عن وحدد \"كيان AI\" في قائمة تطبيقات المساعد</string>
     <string name="default_assistant_guide_step1_detail_android12">Android 12+: الإعدادات ← التطبيقات ← التطبيقات الافتراضية ← تطبيق المساعد الرقمي ← تطبيق المساعد الرقمي الافتراضي</string>
     <string name="default_assistant_guide_open_settings">فتح الإعدادات</string>
     
@@ -5480,20 +5480,20 @@
     
     <string name="default_assistant_guide_step4_title">اختبار المساعد الصوتي</string>
     <string name="default_assistant_guide_step4_desc">بعد الإعداد، اختبار ما إذا كان يمكن تشغيله بشكل طبيعي</string>
-    <string name="default_assistant_guide_step4_detail1">• الضغط مطولاً على زر الشاشة الرئيسية يجب أن يستدعي مساعد Operit الصوتي</string>
-    <string name="default_assistant_guide_step4_detail2">• If voice wake-up is supported, saying \"Hey Google\" or your device\'s designated wake word may also trigger Operit</string>
+    <string name="default_assistant_guide_step4_detail1">• الضغط مطولاً على زر الشاشة الرئيسية يجب أن يستدعي مساعد كيان الصوتي</string>
+    <string name="default_assistant_guide_step4_detail2">• If voice wake-up is supported, saying \"Hey Google\" or your device\'s designated wake word may also trigger كيان</string>
     
-    <string name="default_assistant_guide_step3_title">تحديد Operit</string>
-    <string name="default_assistant_guide_step3_desc">اختر Operit AI من قائمة تطبيقات المساعد</string>
-    <string name="default_assistant_guide_step3_detail1">• ابحث عن \"Operit AI\" في قائمة تطبيقات المساعد المتاحة</string>
-    <string name="default_assistant_guide_step3_detail2">• اضغط للتحديد، وسيقوم النظام بتعيين Operit كالمساعد الافتراضي</string>
+    <string name="default_assistant_guide_step3_title">تحديد كيان</string>
+    <string name="default_assistant_guide_step3_desc">اختر كيان AI من قائمة تطبيقات المساعد</string>
+    <string name="default_assistant_guide_step3_detail1">• ابحث عن \"كيان AI\" في قائمة تطبيقات المساعد المتاحة</string>
+    <string name="default_assistant_guide_step3_detail2">• اضغط للتحديد، وسيقوم النظام بتعيين كيان كالمساعد الافتراضي</string>
     <string name="default_assistant_guide_step3_detail3">• يمكنك محاولة التحدث أو الكتابة للتفاعل مع المساعد</string>
     
     <string name="default_assistant_guide_troubleshooting_title">هل تواجه مشكلات؟</string>
-    <string name="default_assistant_guide_troubleshooting_content">If you can\'t find Operit in the list, please ensure:\n\n• The app is properly installed and not disabled\n• Necessary permissions have been granted (microphone, overlay, etc.)\n• Try restarting the device and setting it up again\n\nSome custom systems may restrict third-party apps from being set as default assistants. If you encounter this situation, you can still use Operit through the in-app floating window feature.</string>
+    <string name="default_assistant_guide_troubleshooting_content">If you can\'t find كيان in the list, please ensure:\n\n• The app is properly installed and not disabled\n• Necessary permissions have been granted (microphone, overlay, etc.)\n• Try restarting the device and setting it up again\n\nSome custom systems may restrict third-party apps from being set as default assistants. If you encounter this situation, you can still use كيان through the in-app floating window feature.</string>
     
     <!-- Voice Interaction Service -->
-    <string name="voice_interaction_service_name">مساعد Operit AI</string>
+    <string name="voice_interaction_service_name">مساعد كيان AI</string>
     <string name="voice_interaction_service_summary">خدمة المساعد الصوتي الذكي</string>
 
     <!-- Tool Permission Settings -->
@@ -5782,7 +5782,7 @@
     <string name="start_with_new_chat_description">عند التمكين، سيفتح كل إطلاق للتطبيق محادثة فارغة جديدة بدلاً من إعادة فتح المحادثة السابقة.</string>
     <string name="software_identity_title">هوية البرنامج</string>
     <string name="software_identity_description">تغيير هوية البرنامج المعروضة في أعلى الشريط الجانبي.</string>
-    <string name="software_identity_option_operit">Operit AI</string>
+    <string name="software_identity_option_operit">كيان AI</string>
     <string name="software_identity_option_lingshu">Lingshu AI</string>
     <string name="reset_all_display_settings">إعادة تعيين جميع إعدادات العرض</string>
     <string name="ui_accessibility_mode">وضع إمكانية الوصول</string>
@@ -5872,7 +5872,7 @@
     <string name="backup_memory_count">إخضالات الذاكرة</string>
     <string name="backup_memory_link_count">روابط الذاكرة</string>
     <string name="backup_files_statistics">إحصائيات ملفات النسخ الاحتياطي</string>
-    <string name="backup_files_statistics_subtitle">ملفات النسخ الاحتياطي في مجلد تصدير Operit</string>
+    <string name="backup_files_statistics_subtitle">ملفات النسخ الاحتياطي في مجلد تصدير كيان</string>
     <string name="backup_refresh">تحديث</string>
     <string name="backup_scanning">جاري الفحص</string>
     <string name="backup_chat_files">سجل المحادثات</string>
@@ -5974,7 +5974,7 @@
     <string name="backup_select_export_format">تحديد تنسيق التصدير</string>
     <string name="backup_select_format_hint">الرجاء تحديد تنسيق سجل المحادثات للتصدير:</string>
     <string name="backup_format_json">JSON (موصى به)</string>
-    <string name="backup_format_json_desc">تنسيق Operit الأصلي، يحافظ على المتغيرات وجميع البيانات الأخرى</string>
+    <string name="backup_format_json_desc">تنسيق كيان الأصلي، يحافظ على المتغيرات وجميع البيانات الأخرى</string>
     <string name="backup_format_markdown">Markdown</string>
     <string name="backup_format_markdown_desc">تنسيق ترميز خفيف الوزن، سهل القراءة والتعديل</string>
     <string name="backup_format_html">HTML</string>
@@ -5986,7 +5986,7 @@
     
     <string name="backup_select_import_format">حدد تنسيق الاستيراد</string>
     <string name="backup_import_format_hint">الرجاء تحديد تنسيق سجل الدردشة للاستيراد:</string>
-    <string name="backup_format_operit">Operit JSON (موصى به)</string>
+    <string name="backup_format_operit">كيان JSON (موصى به)</string>
     <string name="backup_format_operit_desc">التنسيق الأصلي لهذا التطبيق، يحافظ على المتغيرات وجميع البيانات الأخرى</string>
     <string name="backup_format_chatgpt">ChatGPT</string>
     <string name="backup_format_chatgpt_desc">تنسيق تصدير المحادثات conversations.json الخاص بـ OpenAI ChatGPT</string>
@@ -6096,7 +6096,7 @@
 
     <!-- Logcat -->
     <string name="logcat_no_logs_to_save">لا توجد سجلات لحفظها</string>
-    <string name="logcat_header">=== سجلات Operit ===</string>
+    <string name="logcat_header">=== سجلات كيان ===</string>
     <string name="logcat_date">التاريخ: %1$s</string>
     <string name="logcat_total_count">العدد الإجمالي: %1$d</string>
     <string name="logcat_save_failed">فشل الحفظ: %1$s</string>
@@ -6106,7 +6106,7 @@
     <string name="logcat_cannot_open_output_stream">تعذر فتح تدفق الإخراج</string>
     <string name="logcat_mediestore_save_failed">فشل الحفظ في MediaStore: %1$s</string>
     <string name="logcat_cannot_create_download_dir">تعذر إنشاء مجلد التنزيلات</string>
-    <string name="logcat_cannot_create_operit_dir">تعذر إنشاء مجلد operit</string>
+    <string name="logcat_cannot_create_operit_dir">تعذر إنشاء مجلد كيان</string>
     <string name="logcat_file_create_failed">فشل إنشاء الملف أو أنه فارغ</string>
     <string name="logcat_filesystem_save_failed">فشل الحفظ في نظام الملفات: %1$s</string>
 
@@ -6549,14 +6549,14 @@
     <string name="skill_publish_body_section_repo_info">## 🔗 معلومات المستودع</string>
     <string name="skill_publish_body_label_repo_url">**Repository URL:** %1$s</string>
     <string name="skill_publish_body_section_install_method">## 📦 التثبيت</string>
-    <string name="skill_publish_body_install_step1">1. افتح Operit ← مدير الحزم ← المهارات</string>
+    <string name="skill_publish_body_install_step1">1. افتح كيان ← مدير الحزم ← المهارات</string>
     <string name="skill_publish_body_install_step2">2. انقر على \"استيراد المهارة\" ← \"استيراد من المستودع\"</string>
     <string name="skill_publish_body_install_step3">3. أدخل عنوان URL للمستودع: `%1$s`</string>
     <string name="skill_publish_body_install_step4">4. تأكيد الاستيراد</string>
     <string name="skill_publish_body_section_tech_info">## 🛠️ معلومات تقنية</string>
     <string name="skill_publish_body_table_header">| العنصر | القيمة |</string>
     <string name="skill_publish_body_table_separator">|------|-------|</string>
-    <string name="skill_publish_body_table_row_platform">| المنصة | Operit Skill Market |</string>
+    <string name="skill_publish_body_table_row_platform">| المنصة | كيان Skill Market |</string>
     <string name="skill_publish_body_table_row_parser_version">| إصدار المحلل | 1.0 |</string>
     <string name="skill_publish_body_table_row_publish_time">| وقت النشر | %1$s |</string>
 
@@ -7625,15 +7625,15 @@
     <string name="chat_summarize_failed_no_valid_summary">فشل التلخيص: تعذر إنشاء ملخص صالح</string>
     <string name="chat_summarize_generation_failed">فشل إنشاء الملخص: %1$s</string>
 
-    <string name="service_operit_running">Operit قيد التشغيل</string>
+    <string name="service_operit_running">كيان قيد التشغيل</string>
     <string name="service_chat_complete_reminder">تذكير اكتمال المحادثة</string>
     <string name="service_chat_complete_reminder_sound">تذكير اكتمال المحادثة (صوت)</string>
     <string name="service_chat_complete_reminder_vibration">تذكير اكتمال المحادثة (اهتزاز)</string>
     <string name="service_chat_complete_reminder_sound_vibration">تذكير اكتمال المحادثة (صوت واهتزاز)</string>
-    <string name="service_keep_background">إبقاء Operit قيد التشغيل في الخلفية.</string>
+    <string name="service_keep_background">إبقاء كيان قيد التشغيل في الخلفية.</string>
     <string name="service_notify_when_complete">إعلامك عند اكتمال المحادثة.</string>
-    <string name="service_running_wake_pause">Operit قيد التشغيل (الإيقاف المؤقت للتنبيه)</string>
-    <string name="service_running_wake_listening">Operit قيد التشغيل (الاستماع للتنبيه)</string>
+    <string name="service_running_wake_pause">كيان قيد التشغيل (الإيقاف المؤقت للتنبيه)</string>
+    <string name="service_running_wake_listening">كيان قيد التشغيل (الاستماع للتنبيه)</string>
     <string name="service_running_stats">المحادثات %1$d · الأدوات %2$d</string>
     <string name="service_running_http_listening">استماع HTTP الخارجي على المنفذ %1$d</string>
     <string name="service_running_with_http">%1$s · HTTP %2$d</string>
@@ -7677,7 +7677,7 @@
     <string name="html_export_updated">تم التحديث</string>
     <string name="html_export_group">المجموعة</string>
     <string name="html_export_message_count">عدد الرسائل</string>
-    <string name="html_export_footer">تم التصدير من مساعد Operit AI</string>
+    <string name="html_export_footer">تم التصدير من مساعد كيان AI</string>
 
     <string name="mnn_no_cache_data">لا توجد بيانات تخزين مؤقت</string>
     <string name="mnn_response_empty">جسم الرد فارغ</string>
