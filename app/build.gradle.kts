@@ -385,6 +385,19 @@ android {
                 keyPassword = releaseKeyPassword
             }
         }
+
+        // --- Kayan: permanent release keystore (provided by CI via GitHub Secrets) ---
+        // Keeps one stable signing identity so future APKs install as normal updates.
+        val stableKeystorePath = System.getenv("KEYSTORE_PATH")
+            ?: "${rootDir}/keystore/kayan-release.jks"
+        if (File(stableKeystorePath).exists()) {
+            create("stable") {
+                storeFile = file(stableKeystorePath)
+                storePassword = System.getenv("KEYSTORE_PASSWORD") ?: ""
+                keyAlias = System.getenv("KEY_ALIAS") ?: ""
+                keyPassword = System.getenv("KEY_PASSWORD") ?: ""
+            }
+        }
     }
 
     externalNativeBuild {
@@ -420,6 +433,7 @@ android {
 
     buildTypes {
         val releaseSigningConfig = signingConfigs.findByName("release")
+        val stableSigningConfig = signingConfigs.findByName("stable")
 
         release {
             isMinifyEnabled = false
@@ -428,13 +442,11 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
-            if (releaseSigningConfig != null) {
-                signingConfig = releaseSigningConfig
-            }
+            signingConfig = stableSigningConfig ?: releaseSigningConfig
         }
         debug {
             applicationIdSuffix = ".debug"
-            signingConfig = signingConfigs.getByName("debug")
+            signingConfig = stableSigningConfig ?: signingConfigs.getByName("debug")
             resValue("string", "app_name", "KAYAN AGENT Debug")
         }
         create("clone") {
