@@ -8527,4 +8527,22 @@
     <string name="tool_permission_confirmation_timeout">Tool execution confirmation timed out.</string>
     <string name="tool_permission_execution_denied">Tool execution permission denied.</string>
     <string name="tool_permission_overlay_required_for_confirmation">Overlay permission required to confirm tool execution.</string>
+    <string name="web_project">Web Project</string>
+    <string name="file_changes_title">File Changes: %1$s</string>
+    <string name="file_diff">File Diff</string>
+    <string name="copy_value">Copy value</string>
+    <string name="switch_to_visual_view">Switch to Visual View</string>
+    <string name="switch_to_raw_view">Switch to Raw View</string>
+    <string name="save_file">Save File</string>
+    <string name="toggle_preview">Toggle Preview</string>
+    <string name="scroll_to_bottom">Scroll to bottom</string>
+    <string name="default_avatar">Default Avatar</string>
+    <string name="autoglm_enter_task">Enter Task</string>
+    <string name="plugin_loading_no_logs">(no logs)</string>
+    <string name="toggle_folders">Toggle Folders</string>
+    <string name="toggle_box_selection_mode">Toggle Box Selection Mode</string>
+    <string name="toggle_linking_mode">Toggle Linking Mode</string>
+    <string name="import_document">Import Document</string>
+    <string name="create_memory">Create Memory</string>
+    <string name="search_icon">Search Icon</string>
 </resources>

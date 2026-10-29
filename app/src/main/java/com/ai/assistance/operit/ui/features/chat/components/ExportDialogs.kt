@@ -411,7 +411,8 @@ fun WindowsExportDialog(
         onDismiss: () -> Unit,
         onExport: (appName: String, iconUri: Uri?) -> Unit
 ) {
-    var appName by remember { mutableStateOf(stringResource(R.string.web_project)) }
+    val defaultAppName = stringResource(R.string.web_project)
+    var appName by remember { mutableStateOf(defaultAppName) }
     var iconUri by remember { mutableStateOf<Uri?>(null) }
 
     val context = LocalContext.current
