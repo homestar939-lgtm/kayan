@@ -1,6 +1,6 @@
 ---
 fork: https://github.com/luojiaping/Operit
-issue: https://github.com/AAswordman/Operit/issues/741
+issue: https://github.com/homestar939-lgtm/kayan/issues/741
 branch: fix/issue-741-interrupted-turn-stats
 ---
 

@@ -54,7 +54,7 @@ private fun AutoGlmToolContent(
             OutlinedTextField(
                 value = task,
                 onValueChange = onTaskChange,
-                label = { Text("Enter Task", color = MaterialTheme.colorScheme.onSurfaceVariant) },
+                label = { Text(stringResource(R.string.autoglm_enter_task), color = MaterialTheme.colorScheme.onSurfaceVariant) },
                 modifier = Modifier.fillMaxWidth(),
                 maxLines = 5
             )

@@ -503,10 +503,10 @@
     <string name="about_title">Tentang Kayan AI</string>
     <string name="about_version">Versi: %1$s</string>
     <string name="about_description">Kayan AI adalah aplikasi asisten cerdas yang membantu pengguna menggunakan perangkat dengan lebih efisien, menyediakan analisis antarmuka, percakapan obrolan, dan fungsi lainnya.</string>
-    <string name="about_developer">Pengembang: &lt;a href="https://github.com/AAswordman"&gt;AAswordman&lt;/a&gt;</string>
+    <string name="about_developer">Pengembang: &lt;a href="https://github.com/homestar939-lgtm"&gt;homestar939-lgtm&lt;/a&gt;</string>
     <string name="about_contact">Hubungi kami: aaswordsman@foxmail.com</string>
-    <string name="about_website">&lt;a href="https://github.com/AAswordman/Operit"&gt;GitHub: https://github.com/AAswordman/Operit&lt;/a&gt;</string>
-    <string name="about_copyright">© 2025 - 2026 Operit. Hak cipta dilindungi undang-undang.</string>
+    <string name="about_website">&lt;a href="https://github.com/homestar939-lgtm/kayan"&gt;GitHub: https://github.com/homestar939-lgtm/kayan&lt;/a&gt;</string>
+    <string name="about_copyright">© 2025 - 2026 Kayan. Hak cipta dilindungi undang-undang.</string>
     <string name="star_on_github">Beri Bintang di GitHub</string>
     <string name="update_log">Catatan Pembaruan</string>
     <string name="app_logo_description">Ikon Aplikasi</string>
@@ -788,7 +788,7 @@
     <string name="free_usage_first_tip">Ini adalah penggunaan pertama, setelahnya perlu menunggu 1 hari untuk bisa digunakan lagi～</string>
     <string name="free_usage_later_tip">Mengambil keuntungan juga harus ada batasnya, perlu menunggu %1$d hari lagi untuk melanjutkan (๑•̀ㅂ•́)و✧</string>
     <string name="plugin_skip">Lewati</string>
-    <string name="plugin_app_name">OPERIT</string>
+    <string name="plugin_app_name">KAYAN</string>
     <string name="plugin_status">Sudah dimulai: %1$d / %2$d</string>
     <string name="plugin_loading_status_title">Status Pemuatan Plugin</string>
     <string name="plugin_loading_success">Pemuatan berhasil</string>
@@ -5824,7 +5824,7 @@ Sekarang Anda dapat menggunakan mode AutoGLM di antarmuka percakapan.</string>
     <string name="demo_cmd_list_activities">Lihat Aktivitas yang Berjalan</string>
     <string name="demo_cmd_list_services">Daftar Layanan Sistem</string>
     <string name="demo_cmd_check_resolution">Lihat Resolusi Layar</string>
-    <string name="demo_cmd_echo_hello">Cetak Hello OperitTerminal</string>
+    <string name="demo_cmd_echo_hello">Cetak Hello Kayan</string>
     <string name="demo_cmd_list_files">Daftar File dan Direktori</string>
     <string name="demo_cmd_show_user">Tampilkan Pengguna Saat Ini</string>
     <string name="demo_cmd_update_package_manager">Perbarui Manajer Paket (Ubuntu)</string>

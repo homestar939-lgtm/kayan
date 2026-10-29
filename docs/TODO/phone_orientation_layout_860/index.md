@@ -1,8 +1,8 @@
 ---
 fork_repository: https://github.com/luojiaping/Operit.git
-upstream: https://github.com/AAswordman/Operit.git
+upstream: https://github.com/homestar939-lgtm/kayan.git
 base: f83e69cba8e28ac78a35cffc4f1dae4acb118911
-issue: https://github.com/AAswordman/Operit/issues/860
+issue: https://github.com/homestar939-lgtm/kayan/issues/860
 status: completed
 ---
 

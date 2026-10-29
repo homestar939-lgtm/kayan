@@ -58,7 +58,7 @@ fun AvatarPicker(
             } else {
                 Icon(
                     imageVector = Icons.Default.Person,
-                    contentDescription = "Default Avatar",
+                    contentDescription = stringResource(R.string.default_avatar),
                     modifier = Modifier.size(35.dp),
                     tint = MaterialTheme.colorScheme.onSurfaceVariant
                 )

@@ -92,7 +92,7 @@ fun ContentDetailDialog(
                             IconButton(onClick = { isRawView = !isRawView }) {
                                 Icon(
                                     imageVector = if (isRawView) Icons.Default.Visibility else Icons.Default.Code,
-                                    contentDescription = if (isRawView) "Switch to Visual View" else "Switch to Raw View",
+                                    contentDescription = if (isRawView) stringResource(R.string.switch_to_visual_view) else stringResource(R.string.switch_to_raw_view),
                                     tint = MaterialTheme.colorScheme.primary
                                 )
                             }

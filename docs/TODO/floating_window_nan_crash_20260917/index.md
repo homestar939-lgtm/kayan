@@ -1,5 +1,5 @@
 ---
-fork: https://github.com/AAswordman/Operit
+fork: https://github.com/homestar939-lgtm/kayan
 date: 2026-09-17
 source: 用户邮件反馈（悬浮窗崩溃 + 重roll切换卡住）
 ---

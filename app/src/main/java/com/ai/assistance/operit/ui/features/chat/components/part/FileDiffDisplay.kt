@@ -40,7 +40,7 @@ fun FileDiffDisplay(diff: FileDiff) {
 
     if (showDetailDialog) {
         ContentDetailDialog(
-            title = "File Changes: ${diff.path.substringAfterLast('/')}",
+            title = stringResource(R.string.file_changes_title, diff.path.substringAfterLast('/')),
             content = diff.diffContent,
             icon = Icons.Default.Difference,
             onDismiss = { showDetailDialog = false },
@@ -80,7 +80,7 @@ fun FileDiffDisplay(diff: FileDiff) {
             Spacer(modifier = Modifier.width(8.dp))
             Icon(
                 imageVector = Icons.Default.Difference,
-                contentDescription = "File Diff",
+                contentDescription = stringResource(R.string.file_diff),
                 tint = MaterialTheme.colorScheme.primary.copy(alpha = 0.7f),
                 modifier = Modifier.size(16.dp)
             )

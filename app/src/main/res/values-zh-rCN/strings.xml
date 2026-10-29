@@ -586,10 +586,10 @@
     <string name="about_title">关于 Kayan AI</string>
     <string name="about_version">版本: %1$s</string>
     <string name="about_description">Kayan AI是一个智能助手应用，能够帮助用户更高效地使用设备，提供界面分析、聊天对话等功能。</string>
-    <string name="about_developer">开发者: &lt;a href="https://github.com/AAswordman"&gt;AAswordman&lt;/a&gt;</string>
+    <string name="about_developer">开发者: &lt;a href="https://github.com/homestar939-lgtm"&gt;homestar939-lgtm&lt;/a&gt;</string>
     <string name="about_contact">联系我们: aaswordsman@foxmail.com</string>
-    <string name="about_website">&lt;a href="https://github.com/AAswordman/Operit"&gt;GitHub: https://github.com/AAswordman/Operit&lt;/a&gt;</string>
-    <string name="about_copyright">© 2025 - 2026 Operit. 保留所有权利。</string>
+    <string name="about_website">&lt;a href="https://github.com/homestar939-lgtm/kayan"&gt;GitHub: https://github.com/homestar939-lgtm/kayan&lt;/a&gt;</string>
+    <string name="about_copyright">© 2025 - 2026 Kayan. 保留所有权利。</string>
     <string name="star_on_github">在 GitHub 点个 Star</string>
     <string name="update_log">更新日志</string>
     <string name="app_logo_description">应用图标</string>
@@ -667,7 +667,7 @@
     
     <!-- Plugin Loading Screen -->
     <string name="plugin_skip">跳过</string>
-    <string name="plugin_app_name">OPERIT</string>
+    <string name="plugin_app_name">KAYAN</string>
     <string name="plugin_status">已启动: %1$d / %2$d</string>
     <string name="plugin_loading_status_title">插件加载状态</string>
     <string name="plugin_loading_success">加载成功</string>
@@ -7139,7 +7139,7 @@
     <string name="demo_cmd_list_activities">查看活动的Activity</string>
     <string name="demo_cmd_list_services">列出系统服务</string>
     <string name="demo_cmd_check_resolution">查看屏幕分辨率</string>
-    <string name="demo_cmd_echo_hello">打印Hello OperitTerminal</string>
+    <string name="demo_cmd_echo_hello">打印Hello Kayan</string>
     <string name="demo_cmd_list_files">列出文件和目录</string>
     <string name="demo_cmd_show_user">显示当前用户</string>
     <string name="demo_cmd_update_package_manager">更新包管理器 (Ubuntu)</string>

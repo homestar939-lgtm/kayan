@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resources><string name="app_name">Operar IA</string>
+<resources><string name="app_name">Kayan AI</string>
     <string name="accessibility_service_description">Ele é usado para obter a hierarquia da IU e fornecer recursos de análise de interface mais rápidos para o assistente de IA. Nenhuma informação pessoal será coletada ou armazenada.</string>
     <string name="model_selector_title">Selecione a configuração do modelo</string>
     <string name="model_selector_toggle">Mostrar seletor de modelo</string>
@@ -530,10 +530,10 @@
     <string name="about_title">Sobre a Kayan AI</string>
     <string name="about_version">Versão: %1$s</string>
     <string name="about_description">Kayan AI é um aplicativo assistente inteligente que pode ajudar os usuários a usar os dispositivos com mais eficiência, fornecendo análise de interface, diálogo de chat e outras funções.</string>
-    <string name="about_developer">Desenvolvedor: &lt;a href="https://github.com/AAswordman"&gt;AAswordman&lt;/a&gt;</string>
+    <string name="about_developer">Desenvolvedor: &lt;a href="https://github.com/homestar939-lgtm"&gt;homestar939-lgtm&lt;/a&gt;</string>
     <string name="about_contact">Contate-nos: aaswordsman@foxmail.com</string>
-    <string name="about_website">&lt;a href="https://github.com/AAswordman/Operit"&gt;GitHub: https://github.com/AAswordman/Operit&lt;/a&gt;</string>
-    <string name="about_copyright">© 2025 - 2026 Operit. Todos os direitos reservados.</string>
+    <string name="about_website">&lt;a href="https://github.com/homestar939-lgtm/kayan"&gt;GitHub: https://github.com/homestar939-lgtm/kayan&lt;/a&gt;</string>
+    <string name="about_copyright">© 2025 - 2026 Kayan. Todos os direitos reservados.</string>
     <string name="star_on_github">Clique em uma estrela no GitHub</string>
     <string name="update_log">Registro de alterações</string>
     <string name="app_logo_description">ícone do aplicativo</string>
@@ -599,7 +599,7 @@
     <string name="free_usage_first_tip">Esta é a primeira vez que você usa, você precisa esperar 1 dia antes de poder usá-lo novamente ~</string>
     <string name="free_usage_later_tip">Você tem que ter cuidado ao trocar a lã. Você precisa esperar mais %1$d dias antes de continuar cortando(๑•̀ㅂ•́)و✧</string>
     <string name="plugin_skip">pular sobre</string>
-    <string name="plugin_app_name">OPERAÇÃO</string>
+    <string name="plugin_app_name">KAYAN</string>
     <string name="plugin_status">Iniciado: %1$d / %2$d</string>
     <string name="plugin_loading_status_title">Status de carregamento do plug-in</string>
     <string name="plugin_loading_success">Carregando com sucesso</string>
@@ -3566,7 +3566,7 @@ Agora é possível usar o modo AutoGLM na interface de diálogo.</string>
     <string name="tag_import_summary">Importação de tag concluída: criar %1$d, atualizar %2$d, pular %3$d</string>
     <string name="content_preview">Conteúdo: %1$s...</string>
     <string name="old_prompt_config">Configuração de palavra de prompt de versão antiga</string>
-    <string name="old_prompt_config_desc">这些是旧版系统的提示词配置，您可以查看和复制内容到新的角色卡系统中。</string>
+    <string name="old_prompt_config_desc">Estas são configurações de prompt do sistema antigo. Você pode ver e copiar o conteúdo para o novo sistema de cartões de personagem.</string>
     <string name="intro_prompt_preview">Palavra introdutória: %1$s...</string>
     <string name="view_details">verifique os detalhes</string>
     <string name="create_character_card">Crie um novo cartão de personagem</string>
@@ -5540,7 +5540,7 @@ Agora é possível usar o modo AutoGLM na interface de diálogo.</string>
     <string name="demo_cmd_list_activities">Ver atividades ativas</string>
     <string name="demo_cmd_list_services">Listar serviços do sistema</string>
     <string name="demo_cmd_check_resolution">Verifique a resolução da tela</string>
-    <string name="demo_cmd_echo_hello">PrintHello OperitTerminal</string>
+    <string name="demo_cmd_echo_hello">PrintHello Kayan</string>
     <string name="demo_cmd_list_files">Listar arquivos e diretórios</string>
     <string name="demo_cmd_show_user">Mostrar usuário atual</string>
     <string name="demo_cmd_update_package_manager">Atualizar gerenciador de pacotes (Ubuntu)</string>

@@ -30,6 +30,9 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
+import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.ui.platform.LocalLayoutDirection
+import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.TransformOrigin
@@ -260,6 +263,7 @@ fun PhoneLayout(
                 // )
 
                 // 抽屉内容，从左侧滑动进入 - 使用缓存内容
+                CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Ltr) {
                 Surface(
                         modifier =
                                 Modifier.width(drawerWidth)
@@ -303,6 +307,7 @@ fun PhoneLayout(
                                 onScreenSelected = onDrawerItemSelected,
                                 onNavigationEntrySelected = onNavigationEntrySelected
                         )
+                }
                 }
 
                 // 在主内容上方放置遮罩层，阻止右侧内容继续响应点击

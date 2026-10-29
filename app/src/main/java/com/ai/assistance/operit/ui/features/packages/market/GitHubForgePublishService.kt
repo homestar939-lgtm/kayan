@@ -318,7 +318,7 @@ class GitHubForgePublishService(
 
         return githubApiService.createRepository(
             name = OPERIT_FORGE_REPO_NAME,
-            description = "Operit publish-only artifact repository for release assets.",
+            description = "Kayan publish-only artifact repository for release assets.",
             isPrivate = false,
             autoInit = true
         ).map { repo ->
@@ -365,7 +365,7 @@ class GitHubForgePublishService(
                 buildString {
                     appendLine("# OperitForge")
                     appendLine()
-                    appendLine("This repository stores release assets published from Operit.")
+                    appendLine("This repository stores release assets published from Kayan.")
                 }
         )
     }

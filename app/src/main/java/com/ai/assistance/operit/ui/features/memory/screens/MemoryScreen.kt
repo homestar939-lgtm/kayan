@@ -104,7 +104,7 @@ fun MemorySearchBar(
         IconButton(onClick = onMenuClick) {
             Icon(
                 Icons.Default.Folder, 
-                contentDescription = "Toggle Folders",
+                contentDescription = stringResource(R.string.toggle_folders),
                 tint = MaterialTheme.colorScheme.primary
             )
         }
@@ -268,7 +268,7 @@ fun MemoryScreen() {
                         containerColor = MaterialTheme.colorScheme.errorContainer,
                         modifier = Modifier.size(48.dp)
                     ) {
-                        Icon(Icons.Default.Delete, contentDescription = "Delete Selected")
+                        Icon(Icons.Default.Delete, contentDescription = stringResource(R.string.delete_selected))
                     }
                 }
 
@@ -284,7 +284,7 @@ fun MemoryScreen() {
                     containerColor = if (uiState.isBoxSelectionMode) MaterialTheme.colorScheme.tertiary else MaterialTheme.colorScheme.secondaryContainer,
                     modifier = Modifier.size(48.dp)
                 ) {
-                    Icon(Icons.Default.SelectAll, contentDescription = "Toggle Box Selection Mode")
+                    Icon(Icons.Default.SelectAll, contentDescription = stringResource(R.string.toggle_box_selection_mode))
                 }
 
                 FloatingActionButton(
@@ -298,7 +298,7 @@ fun MemoryScreen() {
                     containerColor = if (uiState.isLinkingMode) MaterialTheme.colorScheme.secondary else MaterialTheme.colorScheme.primaryContainer,
                     modifier = Modifier.size(48.dp)
                 ) {
-                    Icon(Icons.Default.Link, contentDescription = "Toggle Linking Mode")
+                    Icon(Icons.Default.Link, contentDescription = stringResource(R.string.toggle_linking_mode))
                 }
                 FloatingActionButton(
                     onClick = {
@@ -314,13 +314,13 @@ fun MemoryScreen() {
                     modifier = Modifier.size(48.dp),
                     containerColor = MaterialTheme.colorScheme.tertiaryContainer
                 ) {
-                    Icon(Icons.Default.UploadFile, contentDescription = "Import Document")
+                    Icon(Icons.Default.UploadFile, contentDescription = stringResource(R.string.import_document))
                 }
                 FloatingActionButton(
                     onClick = { viewModel.startEditing(null) },
                     modifier = Modifier.size(48.dp)
                 ) {
-                    Icon(Icons.Default.Add, contentDescription = "Create Memory")
+                    Icon(Icons.Default.Add, contentDescription = stringResource(R.string.create_memory))
                 }
             }
         }

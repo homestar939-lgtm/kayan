@@ -171,7 +171,7 @@ class UpdateManager private constructor(private val context: Context) {
                         if (matchResult != null) {
                             Pair(matchResult.groupValues[1], matchResult.groupValues[2])
                         } else {
-                            Pair("AAswordman", "Operit") // 默认值
+                            Pair("homestar939-lgtm", "kayan") // 默认值
                         }
 
                 val githubReleaseUtil = GithubReleaseUtil(context)
@@ -223,7 +223,7 @@ class UpdateManager private constructor(private val context: Context) {
     private suspend fun tryFetchLatestPatchUpdate(currentVersion: String): UpdateStatus? {
         val api = GitHubApiService(context)
 
-        val owner = "AAswordman"
+        val owner = "homestar939-lgtm"
         val repo = "OperitNightlyRelease"
 
         AppLogger.d(TAG, "tryFetchLatestPatchUpdate(): currentVersion=$currentVersion repo=$owner/$repo")

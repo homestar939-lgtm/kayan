@@ -999,7 +999,7 @@ fun PluginLoadingScreenWithState(loadingState: PluginLoadingState, modifier: Mod
             text = {
                 SelectionContainer {
                     Text(
-                        text = if (logText.isBlank()) "(no logs)" else logText,
+                        text = if (logText.isBlank()) stringResource(R.string.plugin_loading_no_logs) else logText,
                         modifier = Modifier
                             .fillMaxWidth()
                             .heightIn(max = 420.dp)

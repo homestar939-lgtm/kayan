@@ -1,6 +1,6 @@
 ---
 fork_repository: https://github.com/luojiaping/Operit.git
-base_pr: https://github.com/AAswordman/Operit/pull/950
+base_pr: https://github.com/homestar939-lgtm/kayan/pull/950
 working_branch: fix/token-statistics
 ---
 

@@ -7,7 +7,7 @@ class ComposeDslTextFieldEchoGuardTest {
 
     @Test
     fun `stale echo of own deletion is ignored while focused`() {
-        // Regression test for https://github.com/AAswordman/Operit/issues/1150:
+        // Regression test for https://github.com/homestar939-lgtm/kayan/issues/1150:
         // rapid deletions dispatch one edit per keystroke, and a tree snapshot built after
         // only the first deletion used to overwrite the field while the user kept deleting.
         val guard = ComposeDslTextFieldEchoGuard("hello world")

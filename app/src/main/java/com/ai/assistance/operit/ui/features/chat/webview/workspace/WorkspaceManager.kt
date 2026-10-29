@@ -604,7 +604,7 @@ fun WorkspaceManager(
                         ) {
                             Icon(
                                 Icons.Default.Save,
-                                contentDescription = "Save File"
+                                contentDescription = stringResource(R.string.save_file)
                             )
                         }
                     }
@@ -618,7 +618,7 @@ fun WorkspaceManager(
                         ) {
                             Icon(
                                     if (isPreview) Icons.Default.Edit else Icons.Default.Visibility,
-                                    contentDescription = "Toggle Preview"
+                                    contentDescription = stringResource(R.string.toggle_preview)
                             )
                         }
                     } else if (isBrowserPreviewVisible || isCommandPreviewVisible) {

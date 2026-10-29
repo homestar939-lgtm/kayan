@@ -1,6 +1,6 @@
 ---
-fork_repository: https://github.com/AAswordman/Operit.git
-source_pr: https://github.com/AAswordman/Operit/pull/922
+fork_repository: https://github.com/homestar939-lgtm/kayan.git
+source_pr: https://github.com/homestar939-lgtm/kayan/pull/922
 working_branch: fix/token-stats-922-review
 ---
 

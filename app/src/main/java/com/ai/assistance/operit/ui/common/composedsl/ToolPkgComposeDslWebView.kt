@@ -130,7 +130,7 @@ private data class ComposeDslWebViewResourceDecision(
 private class ComposeDslWebViewActionLane(label: String) {
     private val executor =
         Executors.newSingleThreadExecutor { runnable ->
-            Thread(runnable, "OperitComposeDslWebView:$label").apply {
+            Thread(runnable, "KayanComposeDslWebView:$label").apply {
                 isDaemon = true
             }
         }

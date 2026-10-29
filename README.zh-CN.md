@@ -5,18 +5,18 @@
 <div align="center">
   <span>中文</span> | <a href="README.md">English</a>
   <br>
-  <img src="https://img.shields.io/github/last-commit/AAswordman/Operit" alt="最近提交">
+  <img src="https://img.shields.io/github/last-commit/homestar939-lgtm/kayan" alt="最近提交">
   <img src="https://img.shields.io/badge/Platform-Android_8.0%2B-brightgreen.svg" alt="平台">
-  <a href="https://github.com/AAswordman/Operit/releases/latest"><img src="https://img.shields.io/github/v/release/AAswordman/Operit" alt="最新版本"></a>
-  <a href="https://github.com/AAswordman/Operit/stargazers"><img src="https://img.shields.io/github/stars/AAswordman/Operit" alt="GitHub Star"></a>
+  <a href="https://github.com/homestar939-lgtm/kayan/releases/latest"><img src="https://img.shields.io/github/v/release/homestar939-lgtm/kayan" alt="最新版本"></a>
+  <a href="https://github.com/homestar939-lgtm/kayan/stargazers"><img src="https://img.shields.io/github/stars/homestar939-lgtm/kayan" alt="GitHub Star"></a>
   <br>
   <a href="https://operit.app/"><img src="https://img.shields.io/badge/📖-用户指南-blue.svg" alt="用户指南"></a>
   <a href="docs/doc-src/dev-core/CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg" alt="欢迎贡献"></a>
 </div>
 
 <div align="center">
-  <a href="https://trendshift.io/repositories/14027?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-14027" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/14027" alt="AAswordman/Operit | Trendshift" width="250" height="55"/></a>
-  <a href="https://trendshift.io/repositories/14027?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-14027" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/14027/monthly?language=Kotlin" alt="AAswordman/Operit | Trendshift" width="250" height="55"/></a>
+  <a href="https://trendshift.io/repositories/14027?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-14027" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/14027" alt="homestar939-lgtm/kayan | Trendshift" width="250" height="55"/></a>
+  <a href="https://trendshift.io/repositories/14027?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-14027" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/14027/monthly?language=Kotlin" alt="homestar939-lgtm/kayan | Trendshift" width="250" height="55"/></a>
 </div>
 
 <div align="center">
@@ -151,10 +151,10 @@
 |------|------|
 | **系统要求** | Android 8.0（API 26）或更高版本，仅支持 ARM64（`arm64-v8a`）设备 |
 | **资源需求** | 内存和存储占用取决于终端环境、已安装工具包及本地模型；下载模型前请按模型说明预留空间 |
-| **下载安装** | 从 [Releases 页面](https://github.com/AAswordman/Operit/releases) 下载最新 APK |
+| **下载安装** | 从 [Releases 页面](https://github.com/homestar939-lgtm/kayan/releases) 下载最新 APK |
 | **使用指南** | 访问 [Operit 官方网站](https://operit.app/) 查看教程和示例 |
 
-> **安全提示：** 请仅从官方 [Releases 页面](https://github.com/AAswordman/Operit/releases) 或 [Operit 官方网站](https://operit.app/) 下载安装包。未知渠道的安装包可能被修改，造成数据和设备安全风险。
+> **安全提示：** 请仅从官方 [Releases 页面](https://github.com/homestar939-lgtm/kayan/releases) 或 [Operit 官方网站](https://operit.app/) 下载安装包。未知渠道的安装包可能被修改，造成数据和设备安全风险。
 
 安装流程：下载 APK → 安装并启动 → 按引导配置模型与权限 → 开始使用
 
@@ -195,7 +195,7 @@
 
 </details>
 
-完整更新内容请查看 [Releases 页面](https://github.com/AAswordman/Operit/releases)。
+完整更新内容请查看 [Releases 页面](https://github.com/homestar939-lgtm/kayan/releases)。
 
 ## 开源共创
 
@@ -210,8 +210,8 @@
 
 ### 贡献者
 
-<a href="https://github.com/AAswordman/Operit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AAswordman/Operit" alt="Operit 贡献者">
+<a href="https://github.com/homestar939-lgtm/kayan/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=homestar939-lgtm/kayan" alt="Operit 贡献者">
 </a>
 
 ## 支持开发
@@ -229,11 +229,11 @@
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=AAswordman%2FOperit&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=homestar939-lgtm%2Fkayan&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=AAswordman/Operit&type=date&theme=dark&legend=top-left&sealed_token=CtZ-YNyNp2_W0AUVXHyAzBNeMlpGVkDx0RjuJPYdalj2Kvy7HkPBhb-uzKQ8t8jbMDGjRvnjHo7Fi-FtGIv-NaS0gqafGHDjgoGufAgx8yXt3gi8f4vV3aP8KskKramok4_vcKfo8Ii4AohtLRdX13mCJz0ABDqwtmec2SoK0j1kLuPyLz6oH3k4lhY4" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=AAswordman/Operit&type=date&legend=top-left&sealed_token=CtZ-YNyNp2_W0AUVXHyAzBNeMlpGVkDx0RjuJPYdalj2Kvy7HkPBhb-uzKQ8t8jbMDGjRvnjHo7Fi-FtGIv-NaS0gqafGHDjgoGufAgx8yXt3gi8f4vV3aP8KskKramok4_vcKfo8Ii4AohtLRdX13mCJz0ABDqwtmec2SoK0j1kLuPyLz6oH3k4lhY4" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=AAswordman/Operit&type=date&legend=top-left&sealed_token=CtZ-YNyNp2_W0AUVXHyAzBNeMlpGVkDx0RjuJPYdalj2Kvy7HkPBhb-uzKQ8t8jbMDGjRvnjHo7Fi-FtGIv-NaS0gqafGHDjgoGufAgx8yXt3gi8f4vV3aP8KskKramok4_vcKfo8Ii4AohtLRdX13mCJz0ABDqwtmec2SoK0j1kLuPyLz6oH3k4lhY4" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=homestar939-lgtm/kayan&type=date&theme=dark&legend=top-left&sealed_token=CtZ-YNyNp2_W0AUVXHyAzBNeMlpGVkDx0RjuJPYdalj2Kvy7HkPBhb-uzKQ8t8jbMDGjRvnjHo7Fi-FtGIv-NaS0gqafGHDjgoGufAgx8yXt3gi8f4vV3aP8KskKramok4_vcKfo8Ii4AohtLRdX13mCJz0ABDqwtmec2SoK0j1kLuPyLz6oH3k4lhY4" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=homestar939-lgtm/kayan&type=date&legend=top-left&sealed_token=CtZ-YNyNp2_W0AUVXHyAzBNeMlpGVkDx0RjuJPYdalj2Kvy7HkPBhb-uzKQ8t8jbMDGjRvnjHo7Fi-FtGIv-NaS0gqafGHDjgoGufAgx8yXt3gi8f4vV3aP8KskKramok4_vcKfo8Ii4AohtLRdX13mCJz0ABDqwtmec2SoK0j1kLuPyLz6oH3k4lhY4" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=homestar939-lgtm/kayan&type=date&legend=top-left&sealed_token=CtZ-YNyNp2_W0AUVXHyAzBNeMlpGVkDx0RjuJPYdalj2Kvy7HkPBhb-uzKQ8t8jbMDGjRvnjHo7Fi-FtGIv-NaS0gqafGHDjgoGufAgx8yXt3gi8f4vV3aP8KskKramok4_vcKfo8Ii4AohtLRdX13mCJz0ABDqwtmec2SoK0j1kLuPyLz6oH3k4lhY4" />
  </picture>
 </a>
 ---

@@ -1,5 +1,5 @@
 ---
-fork_repository: https://github.com/AAswordman/Operit.git
+fork_repository: https://github.com/homestar939-lgtm/kayan.git
 ---
 
 # 预编译删除思考正则

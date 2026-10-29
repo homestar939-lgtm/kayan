@@ -193,7 +193,7 @@ class WebViewHandler(private val context: Context) {
                 // 本地预览页默认保持移动端UA，避免 Flutter/Web 应用在内置浏览器里走错布局或渲染路径。
                 userAgentString =
                     if (options.preferDesktopSite) {
-                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0 OperitWebView/1.0"
+                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0 KayanWebView/1.0"
                     } else {
                         WebSettings.getDefaultUserAgent(context)
                     }

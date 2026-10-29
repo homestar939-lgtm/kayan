@@ -77,7 +77,7 @@ fun MemoryAppBar(
             leadingIcon = {
                 Icon(
                     Icons.Default.Search,
-                    contentDescription = "Search Icon",
+                    contentDescription = stringResource(R.string.search_icon),
                     modifier = Modifier.size(18.dp)
                 )
             },
@@ -89,7 +89,7 @@ fun MemoryAppBar(
                     ) {
                         Icon(
                             Icons.Default.Clear,
-                            contentDescription = "Clear Search",
+                            contentDescription = stringResource(R.string.clear_search),
                             modifier = Modifier.size(16.dp)
                         )
                     }
@@ -126,7 +126,7 @@ fun MemoryAppBar(
                     overflow = TextOverflow.Ellipsis,
                     modifier = Modifier.widthIn(max = 100.dp)
                 )
-                Icon(Icons.Default.ArrowDropDown, contentDescription = "Select Profile")
+                Icon(Icons.Default.ArrowDropDown, contentDescription = stringResource(R.string.select_profile))
             }
 
             DropdownMenu(expanded = expanded, onDismissRequest = { expanded = false }) {

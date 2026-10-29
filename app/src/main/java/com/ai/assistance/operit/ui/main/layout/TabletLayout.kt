@@ -16,6 +16,9 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
+import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.ui.platform.LocalLayoutDirection
+import androidx.compose.ui.unit.LayoutDirection
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
@@ -117,6 +120,7 @@ fun TabletLayout(
                         )
 
                 // 侧边栏区域，使用动画宽度，无圆角以完全遮住背景
+                CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Ltr) {
                 Surface(
                         modifier =
                                 Modifier.width(animatedSidebarWidth)
@@ -167,6 +171,7 @@ fun TabletLayout(
                                         )
                                 }
                         }
+                }
                 }
 
                 // 主内容区域 - 使用width+offset方式，保留稳定的布局

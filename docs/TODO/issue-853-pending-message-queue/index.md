@@ -1,6 +1,6 @@
 ---
-fork: https://github.com/AAswordman/Operit.git
-issue: https://github.com/AAswordman/Operit/issues/853
+fork: https://github.com/homestar939-lgtm/kayan.git
+issue: https://github.com/homestar939-lgtm/kayan/issues/853
 ---
 
 # Issue 853 待发送消息队列

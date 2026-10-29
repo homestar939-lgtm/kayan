@@ -4,7 +4,7 @@ status: draft
 document_type: implementation-step
 plan_scope: apk-v3-signing-rotation
 step: 1
-fork_repository: "https://github.com/AAswordman/Operit.git"
+fork_repository: "https://github.com/homestar939-lgtm/kayan.git"
 last_reviewed: 2026-08-07
 ---
 

@@ -1,5 +1,5 @@
 ---
-fork_repository: https://github.com/AAswordman/Operit.git
+fork_repository: https://github.com/homestar939-lgtm/kayan.git
 ---
 
 # 按时间段构建聊天记忆

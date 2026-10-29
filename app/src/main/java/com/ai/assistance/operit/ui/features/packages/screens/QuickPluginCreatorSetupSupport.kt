@@ -18,7 +18,7 @@ import java.net.URL
 
 private const val OPERIT_EDITOR_PACKAGE_NAME = "operit_editor"
 private const val SANDBOX_PACKAGE_DEV_INSTALL_SCRIPT_URL =
-    "https://cdn.jsdelivr.net/gh/AAswordman/Operit@main/tools/sandboxpackage_dev_install_or_update.js"
+    "https://cdn.jsdelivr.net/gh/homestar939-lgtm/kayan@main/tools/sandboxpackage_dev_install_or_update.js"
 private const val SANDBOX_PACKAGE_DEV_SCRIPT_RELATIVE_PATH =
     "Download/Operit/skills/SandboxPackage_DEV/scripts/install_or_update.js"
 
@@ -88,7 +88,7 @@ private fun downloadSandboxPackageDevInstallScript(): File {
             connectTimeout = 20_000
             readTimeout = 30_000
             doInput = true
-            setRequestProperty("User-Agent", "Operit-QuickPluginCreator/1.0")
+            setRequestProperty("User-Agent", "Kayan-QuickPluginCreator/1.0")
         }
 
     connection.connect()

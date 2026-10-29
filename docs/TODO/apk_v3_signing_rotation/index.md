@@ -2,7 +2,7 @@
 title: APK V3 签名轮换
 status: draft
 document_type: implementation-plan
-fork_repository: "https://github.com/AAswordman/Operit.git"
+fork_repository: "https://github.com/homestar939-lgtm/kayan.git"
 last_reviewed: 2026-08-07
 ---
 

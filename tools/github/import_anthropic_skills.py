@@ -1185,7 +1185,7 @@ def main() -> int:
     )
     parser.add_argument(
         "--target-repo",
-        default="AAswordman/OperitSkillMarket",
+        default="homestar939-lgtm/OperitSkillMarket",
         help="Target GitHub repo to create issues in",
     )
     parser.add_argument(

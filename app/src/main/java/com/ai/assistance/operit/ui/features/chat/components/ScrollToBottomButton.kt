@@ -1,5 +1,6 @@
 package com.ai.assistance.operit.ui.features.chat.components
 
+import androidx.compose.ui.res.stringResource
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
@@ -249,7 +250,7 @@ private fun ScrollToBottomButtonContent(
         ) {
             Icon(
                 imageVector = Icons.Default.KeyboardArrowDown,
-                contentDescription = "Scroll to bottom",
+                contentDescription = stringResource(R.string.scroll_to_bottom),
                 tint = MaterialTheme.colorScheme.onSurfaceVariant
             )
         }

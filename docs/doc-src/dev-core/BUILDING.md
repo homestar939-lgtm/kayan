@@ -148,7 +148,7 @@ org.gradle.parallel=true
 请根据需要选择以下两种克隆方式（项目包含 Git 子模块）：
 
 **推荐：先 Fork 后克隆你的仓库**  
-在 GitHub 打开上游仓库并点击 Fork： [AAswordman/Operit](https://github.com/AAswordman/Operit)  
+在 GitHub 打开上游仓库并点击 Fork： [homestar939-lgtm/kayan](https://github.com/homestar939-lgtm/kayan)  
 克隆你的 Fork，并只初始化公开构建依赖 `terminal`：
 ```bash
 git clone https://github.com/<你的 GitHub 用户名>/Operit.git
@@ -157,12 +157,12 @@ git submodule update --init --recursive terminal
 ```  
 （可选）添加上游仓库以便同步更新：  
 ```bash
-git remote add upstream https://github.com/AAswordman/Operit.git
+git remote add upstream https://github.com/homestar939-lgtm/kayan.git
 ```  
 
 **备选：不 Fork，直接克隆上游仓库（只读）**  
 ```bash
-git clone https://github.com/AAswordman/Operit.git
+git clone https://github.com/homestar939-lgtm/kayan.git
 cd Operit
 git submodule update --init --recursive terminal
 ```  

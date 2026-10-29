@@ -1,7 +1,7 @@
 ---
 title: PR Check Android 构建与单测拆分
 repo: https://github.com/luojiaping/Operit
-upstream: https://github.com/AAswordman/Operit
+upstream: https://github.com/homestar939-lgtm/kayan
 status: verified
 ---
 

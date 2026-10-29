@@ -1,5 +1,6 @@
 package com.ai.assistance.operit.ui.features.chat.components
 
+import androidx.compose.ui.res.stringResource
 import android.content.Context
 import android.graphics.BitmapFactory
 import android.net.Uri
@@ -169,7 +170,7 @@ fun AndroidExportDialog(
         ) -> Unit
 ) {
     var packageName by rememberLocal(key = "export_package_name_${workDir.absolutePath}", "com.example.webproject")
-    var appName by rememberLocal(key = "export_app_name_${workDir.absolutePath}", "Web Project")
+    var appName by rememberLocal(key = "export_app_name_${workDir.absolutePath}", stringResource(R.string.web_project))
     var versionName by rememberLocal(key = "export_version_name_${workDir.absolutePath}", "1.0.0")
     var versionCode by rememberLocal(key = "export_version_code_${workDir.absolutePath}", "1")
     var iconUri by rememberLocal<Uri?>(key = "export_icon_uri_${workDir.absolutePath}", null, serializer = UriSerializer)
@@ -270,7 +271,7 @@ fun AndroidExportDialog(
                         value = appName,
                         onValueChange = { appName = it },
                         label = { Text(context.getString(R.string.app_name_label)) },
-                        placeholder = { Text("Web Project") },
+                        placeholder = { Text(context.getString(R.string.web_project)) },
                         modifier = Modifier.fillMaxWidth(),
                         singleLine = true
                 )
@@ -410,7 +411,7 @@ fun WindowsExportDialog(
         onDismiss: () -> Unit,
         onExport: (appName: String, iconUri: Uri?) -> Unit
 ) {
-    var appName by remember { mutableStateOf("Web Project") }
+    var appName by remember { mutableStateOf(stringResource(R.string.web_project)) }
     var iconUri by remember { mutableStateOf<Uri?>(null) }
 
     val context = LocalContext.current
@@ -470,7 +471,7 @@ fun WindowsExportDialog(
                         value = appName,
                         onValueChange = { appName = it },
                         label = { Text(context.getString(R.string.app_name)) },
-                        placeholder = { Text("Web Project") },
+                        placeholder = { Text(context.getString(R.string.web_project)) },
                         modifier = Modifier.fillMaxWidth(),
                         singleLine = true
                 )

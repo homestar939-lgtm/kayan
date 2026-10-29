@@ -6,7 +6,7 @@ plan_scope: apk-v3-signing-rotation
 step: 2
 depends_on:
   - 01_NightlyAndReleaseDualSigning.md
-fork_repository: "https://github.com/AAswordman/Operit.git"
+fork_repository: "https://github.com/homestar939-lgtm/kayan.git"
 last_reviewed: 2026-08-07
 ---
 

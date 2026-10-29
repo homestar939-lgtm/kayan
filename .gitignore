@@ -90,3 +90,11 @@ tmp
 temp
 .tmp
 .temp
+
+# --- Kayan additions ---
+*.bak
+backup_fixes/
+backup_logs/
+kayan_*.py
+*.apk
+*.aab

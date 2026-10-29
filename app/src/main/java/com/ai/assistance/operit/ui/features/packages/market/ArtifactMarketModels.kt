@@ -7,7 +7,7 @@ import com.ai.assistance.operit.data.api.MarketV2Version
 import java.io.File
 import kotlinx.serialization.Serializable
 
-const val OPERIT_MARKET_OWNER = "AAswordman"
+const val OPERIT_MARKET_OWNER = "homestar939-lgtm"
 const val OPERIT_FORGE_REPO_NAME = "OperitForge"
 const val PUBLISH_LOGO_MAX_BYTES = 512 * 1024
 const val LEGACY_TOOLPKG_API_VERSION = "1.0.0"
@@ -57,7 +57,7 @@ enum class PublishArtifactType(
         titleLabel = "Script",
         marketLabel = SCRIPT_MARKET_LABEL,
         marketLabelColor = "0e8a16",
-        marketLabelDescription = "Published script artifacts managed by Operit."
+        marketLabelDescription = "Published script artifacts managed by Kayan."
     ),
     PACKAGE(
         wireValue = "package",
@@ -66,7 +66,7 @@ enum class PublishArtifactType(
         titleLabel = "Package",
         marketLabel = PACKAGE_MARKET_LABEL,
         marketLabelColor = "1d76db",
-        marketLabelDescription = "Published package artifacts managed by Operit."
+        marketLabelDescription = "Published package artifacts managed by Kayan."
     );
 
     companion object {
@@ -484,7 +484,8 @@ fun buildArtifactMarketMetadata(
         projectId = payload.projectId,
         projectDisplayName = payload.projectDisplayName,
         projectDescription = payload.projectDescription,
-        runtimePackageId = payload.runtimePackageId,
+        runtimePackageId = payload.runtimePackageId,
+
         publisherLogin = payload.publisherLogin,
         releaseOwner = payload.releaseOwner,
         releaseRepository = payload.releaseRepository,

@@ -539,10 +539,10 @@
     <string name="about_title">Kayan AI 소개</string>
     <string name="about_version">버전: %1$s</string>
     <string name="about_description">Kayan AI는 인터페이스 분석, 채팅 대화 등을 제공하여 사용자가 장치를 보다 효율적으로 사용할 수 있도록 돕는 지능형 보조 애플리케이션입니다.</string>
-    <string name="about_developer">개발자: &lt;a href="https://github.com/AAswordman"&gt;AAswordman&lt;/a&gt;</string>
+    <string name="about_developer">개발자: &lt;a href="https://github.com/homestar939-lgtm"&gt;homestar939-lgtm&lt;/a&gt;</string>
     <string name="about_contact">연락처: aaswordsman@foxmail.com</string>
-    <string name="about_website">&lt;a href="https://github.com/AAswordman/Operit"&gt;GitHub: https://github.com/AAswordman/Operit&lt;/a&gt;</string>
-    <string name="about_copyright">© 2025 - 2026 Operit. 모든 권리 보유.</string>
+    <string name="about_website">&lt;a href="https://github.com/homestar939-lgtm/kayan"&gt;GitHub: https://github.com/homestar939-lgtm/kayan&lt;/a&gt;</string>
+    <string name="about_copyright">© 2025 - 2026 Kayan. 모든 권리 보유.</string>
     <string name="star_on_github">GitHub에 스타 추가</string>
     <string name="update_log">업데이트 로그</string>
     <string name="app_logo_description">앱 로고</string>
@@ -609,7 +609,7 @@
     <string name="free_usage_first_tip">이번이 첫 번째 사용이므로 다음번에는 1일을 기다려야 합니다~</string>
     <string name="free_usage_later_tip">무료 리소스에는 제한이 있습니다. %1$d일 더 기다려 주세요. (๑•̀ㅂ•́)و✧</string>
     <string name="plugin_skip">건너뛰기</string>
-    <string name="plugin_app_name">OPERIT</string>
+    <string name="plugin_app_name">KAYAN</string>
     <string name="plugin_status">시작됨: %1$d / %2$d</string>
     <string name="plugin_loading_status_title">플러그인 로딩 상태</string>
     <string name="plugin_loading_success">로드 성공</string>
@@ -5981,7 +5981,7 @@
     <string name="demo_cmd_list_activities">활성 Activity 나열</string>
     <string name="demo_cmd_list_services">시스템 서비스 나열</string>
     <string name="demo_cmd_check_resolution">화면 해상도 확인</string>
-    <string name="demo_cmd_echo_hello">Hello OperitTerminal 인쇄</string>
+    <string name="demo_cmd_echo_hello">Hello Kayan 인쇄</string>
     <string name="demo_cmd_list_files">파일 및 디렉터리 나열</string>
     <string name="demo_cmd_show_user">현재 사용자 표시</string>
     <string name="demo_cmd_update_package_manager">패키지 관리자 업데이트(Ubuntu)</string>
